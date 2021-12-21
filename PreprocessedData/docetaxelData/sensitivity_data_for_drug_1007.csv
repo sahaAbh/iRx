@@ -1,0 +1,562 @@
+Drug Name,Cell Line Name,Tissue,Cancer Type,COSMIC ID,IC Results ID,IC 50,IC 50 Low,IC 50 High,Beta,Timestamp
+Docetaxel,CAL-27,upper_aerodigestive_tract,upper aerodigestive,910916,787950,-7.9888,-8.4571,-7.581,1.2407,7-Jun-10
+Docetaxel,A704,Renal cell carcinoma,kidney,910920,1089852,-4.2418,-4.5766,-3.3088,1.2588,16-Apr-12
+Docetaxel,A101D,malignant_melanoma,skin,910921,868104,-4.1678,-5.1127,-2.2504,0.96123,22-Feb-10
+Docetaxel,769-P,clear cell carcinoma,kidney,910922,771810,-1.8425,-4.2323,2.6524,1.0308,20-May-10
+Docetaxel,23132-87,stomach,GI tract,910924,798461,-6.4675,-7.0774,-5.9618,0.95618,15-Mar-10
+Docetaxel,A431,other,skin,910925,868123,-2.7529,-4.1334,0.5947,0.82873,8-Mar-10
+Docetaxel,BFTC-905,bladder,bladder,910926,771910,-8.223,-9.7298,-7.6438,0.88199,8-Jul-10
+Docetaxel,CAL-51,breast,breast,910927,805114,-5.9121,-6.2331,-5.5984,1.0731,1-Nov-10
+Docetaxel,RERF-LC-MS,lung: NSCLC: adenocarcinoma,lung,910931,805078,-6.7857,-7.1313,-6.4206,1.0049,30-Sep-10
+Docetaxel,GAK,malignant_melanoma,skin,910932,950678,-4.4582,-5.2374,-3.196,0.59003,14-Apr-11
+Docetaxel,AM-38,glioma,CNS,910933,787975,-4.5812,-4.9549,-3.9947,1.1353,9-Aug-10
+Docetaxel,A4-Fuk,malignant_melanoma,skin,910934,981954,-5.5467,-5.9578,-5.1263,1.1776,8-Feb-11
+Docetaxel,A3-KAW,stomach,GI tract,910935,981997,-1.0943,-3.983,3.4447,1.0203,1-Feb-11
+Docetaxel,DOK,upper_aerodigestive_tract,upper aerodigestive,910936,788025,-5.8287,-6.5765,-5.0007,0.75598,7-Jun-10
+Docetaxel,NEC8,germ_cell_tumour,other,910942,1089964,-7.4863,-7.9372,-7.0413,0.62187,3-Apr-12
+Docetaxel,CAS-1,glioma,CNS,910943,805145,-4.1295,-4.9989,-3.0899,0.59781,6-Dec-10
+Docetaxel,ALL-PO,lymphoblastic leukemia,blood,910944,981955,-4.7558,-5.4763,-3.538,0.86121,22-Feb-11
+Docetaxel,S-117,soft tissue other,soft tissue,910946,771713,-5.3277,-6.3372,-4.2203,0.58009,12-Jul-10
+Docetaxel,OCI-AML2,AML,blood,910947,982029,-1.1302,-3.5798,3.1906,1.0135,25-Feb-11
+Docetaxel,MFM-223,breast,breast,910948,868129,-5.0903,-6.3876,-0.92122,0.50926,1-Mar-10
+Docetaxel,CAL-54,Renal cell carcinoma,kidney,910952,771736,-2.2986,-4.3355,2.2693,0.96461,20-May-10
+Docetaxel,EFO-21,ovary,ovary,911905,805247,-4.5096,-5.0363,-3.6657,0.82986,4-Oct-10
+Docetaxel,LS-1034,large_intestine,GI tract,917486,805191,-2.6079,-3.9989,0.2729,0.9639,18-Oct-10
+Docetaxel,22RV1,prostate,other,924100,771935,-5.7605,-6.2452,-5.2989,0.99382,12-Jul-10
+Docetaxel,8505C,thyroid,thyroid,924102,1089886,-7.0661,-7.4481,-6.7144,0.55666,16-Apr-12
+Docetaxel,BCPAP,thyroid,thyroid,924104,771897,-6.9627,-7.3909,-6.5372,1.413,10-May-10
+Docetaxel,BPH-1,prostate,other,924105,805393,-6.886,-7.6875,-6.1166,0.69648,17-May-10
+Docetaxel,CAL-39,vulva,uterus,924107,787959,-6.4199,-6.6909,-6.1535,1.1758,6-Sep-10
+Docetaxel,CaR-1,large_intestine,GI tract,924108,950677,-5.7216,-6.2146,-5.1526,0.56809,14-Apr-11
+Docetaxel,HDLM-2,Hodgkin lymphoma,blood,924110,981189,-1.0818,-3.7866,3.4705,0.97642,10-May-11
+Docetaxel,HO-1-N-1,upper_aerodigestive_tract,upper aerodigestive,924111,771841,-8.1761,-8.7783,-7.4931,0.92096,1-Jul-10
+Docetaxel,HTC-C3,thyroid,thyroid,924151,771849,-5.86,-6.4178,-5.3006,1.0155,14-Jun-10
+Docetaxel,KGN,ovary,ovary,924186,805180,-6.0032,-6.4524,-5.5464,0.616,8-Nov-10
+Docetaxel,KLE,endometrium,uterus,924187,771771,-3.7622,-4.6258,-1.9835,0.68516,5-Jul-10
+Docetaxel,KNS-81-FD,glioma,CNS,924188,805183,-5.5244,-5.8123,-5.2543,1.0516,22-Nov-10
+Docetaxel,K5,thyroid,thyroid,924238,785905,-7.1589,-7.6765,-6.6304,0.94327,19-Apr-10
+Docetaxel,L-363,Myeloma,blood,924239,982011,-5.5834,-6.1944,-3.2605,1.4981,25-Feb-11
+Docetaxel,MDA-MB-415,breast,breast,924240,1089945,-5.8983,-6.2431,-5.5645,0.7875,26-Mar-12
+Docetaxel,SW954,vulva,uterus,924247,805219,-7.1028,-7.4294,-6.76,0.8077,25-Oct-10
+Docetaxel,MKN7,stomach,GI tract,924250,950699,-4.3563,-5.1648,-3.0539,0.43083,9-Jun-11
+Docetaxel,MDA-MB-157,breast,breast,925338,771895,-3.751,-5.0409,-0.52279,0.81264,21-Jun-10
+Docetaxel,MMAC-SF,malignant_melanoma,skin,925339,785906,-5.14,-5.5069,-4.6443,1.1089,19-Apr-10
+Docetaxel,MKN45,stomach,GI tract,925340,785915,-5.3971,-6.8575,-4.0117,0.54944,22-Apr-10
+Docetaxel,NCI-H810,lung: NSCLC: large cell,lung,925341,788103,-5.0797,-5.7596,-4.3132,0.89557,16-Aug-10
+Docetaxel,NBsusSR,neuroblastoma,CNS,925342,981980,-6.8159,-7.4156,-6.2559,1.1297,18-Mar-11
+Docetaxel,MFH-ino,soft tissue other,soft tissue,925343,798487,-2.465,-3.8232,0.2505,0.83679,18-Feb-10
+Docetaxel,NOS-1,osteosarcoma,bone,925345,805210,-4.227,-4.9178,-3.0899,0.73195,28-Feb-11
+Docetaxel,PANC-03-27,pancreas,pancreas,925346,771947,-6.4776,-6.8337,-6.1104,0.98819,12-Jul-10
+Docetaxel,PANC-08-13,pancreas,pancreas,925347,788113,-3.7029,-4.7184,-1.8821,0.73095,3-Jun-10
+Docetaxel,PANC-10-05,pancreas,pancreas,925348,788114,-4.5503,-5.5557,-3.0259,0.87062,10-Jun-10
+Docetaxel,RO82-W-1,thyroid,thyroid,930083,787942,-5.2379,-5.7315,-4.7278,0.77697,2-Sep-10
+Docetaxel,SiHa,cervix,uterus,930297,1089821,-5.4484,-6.0277,-4.7811,0.55892,14-May-12
+Docetaxel,SKG-IIIa,cervix,uterus,930298,1089823,-5.8581,-6.2426,-5.4772,0.6518,14-May-12
+Docetaxel,TE-9,oesophagus,upper aerodigestive,946353,805226,-7.2999,-7.6336,-6.972,0.9674,30-Sep-10
+Docetaxel,TE-11,oesophagus,upper aerodigestive,946354,805222,-7.4722,-7.9011,-7.0651,1.1196,1-Jul-10
+Docetaxel,TE-6,oesophagus,upper aerodigestive,946355,805224,-4.4676,-4.914,-3.7829,0.96789,16-Dec-10
+Docetaxel,TE-12,oesophagus,upper aerodigestive,946356,981990,-0.42474,-3.2898,4.2288,1.0215,21-Feb-11
+Docetaxel,BT-474,breast,breast,946359,805401,-3.9408,-4.6538,-1.8981,0.99483,18-Oct-10
+Docetaxel,OAW-28,ovary,ovary,946360,771938,-3.9344,-5.1899,-0.19758,1.0827,17-Jun-10
+Docetaxel,LCLC-97TM1,lung: NSCLC: large cell,lung,946361,950697,-6.5417,-6.7686,-6.324,0.95973,9-May-11
+Docetaxel,KP-N-YS,neuroblastoma,CNS,946363,787994,-4.1845,-5.4835,-2.2194,0.66557,26-Jul-10
+Docetaxel,D-247MG,glioma,CNS,946367,787979,-6.3594,-6.7002,-6.0053,0.86316,2-Aug-10
+Docetaxel,D-263MG,glioma,CNS,946368,787980,-6.9627,-7.3721,-6.1469,0.93792,6-Sep-10
+Docetaxel,D-336MG,glioma,CNS,946369,785904,-6.3833,-7.0317,-5.7521,0.95416,19-Apr-10
+Docetaxel,D-392MG,glioma,CNS,946370,805150,-3.8787,-4.7963,-2.3612,0.55582,20-Sep-10
+Docetaxel,D-423MG,glioma,CNS,946372,950676,-6.6466,-6.9523,-6.3472,0.68873,9-May-11
+Docetaxel,D-502MG,glioma,CNS,946373,787981,-5.4964,-5.9221,-5.0111,0.55365,19-Jul-10
+Docetaxel,D-566MG,glioma,CNS,946377,1089853,-8.61,-8.8758,-8.3833,1.2681,23-Feb-12
+Docetaxel,CAMA-1,breast,breast,946382,771754,-6.6404,-7.1098,-6.1657,1.1005,24-May-10
+Docetaxel,CTB-1,B cell lymphoma,blood,949088,981961,-6.2544,-6.7394,-5.6957,1.4992,25-Feb-11
+Docetaxel,M059J,glioma,CNS,949094,788076,-6.2261,-6.6331,-5.8051,0.89465,2-Aug-10
+Docetaxel,HAL-01,lymphoblastic leukemia,blood,949153,981969,-0.41219,-3.1371,3.7731,1.0081,1-Feb-11
+Docetaxel,OMC-1,cervix,uterus,949154,1089868,-4.7044,-5.0795,-4.2001,0.83286,14-May-12
+Docetaxel,ES8,Ewings sarcoma,bone,949155,1089860,-8.2552,-8.4581,-8.0563,1.2566,12-Apr-12
+Docetaxel,ES4,Ewings sarcoma,bone,949156,805157,-6.4682,-6.8822,-6.0307,0.86884,28-Feb-11
+Docetaxel,ES6,Ewings sarcoma,bone,949157,1089857,-3.9079,-4.6896,-2.6803,0.57164,1-Mar-12
+Docetaxel,ES1,Ewings sarcoma,bone,949158,1089856,-7.169,-7.5011,-6.8598,1.1982,22-Mar-12
+Docetaxel,EW-3,Ewings sarcoma,bone,949161,1016424,-7.2024,-8.2761,-6.1456,0.48833,31-May-11
+Docetaxel,EW-1,Ewings sarcoma,bone,949163,1089861,-5.8151,-6.1087,-5.5276,1.3248,15-Mar-12
+Docetaxel,EW-18,Ewings sarcoma,bone,949164,1016423,-4.4488,-5.7035,-2.5116,0.49977,31-May-11
+Docetaxel,EW-16,Ewings sarcoma,bone,949165,805172,-6.6094,-6.9762,-6.264,1.0148,28-Feb-11
+Docetaxel,EW-13,Ewings sarcoma,bone,949166,981966,-3.5389,-5.0691,0.76655,0.90944,25-Feb-11
+Docetaxel,EW-22,Ewings sarcoma,bone,949167,787987,-4.3776,-4.9716,-3.4485,0.68476,6-Sep-10
+Docetaxel,EW-24,Ewings sarcoma,bone,949168,805174,-5.4417,-6.066,-4.7189,0.58686,20-Sep-10
+Docetaxel,LAN-6,neuroblastoma,CNS,949170,787997,-3.1384,-4.4246,-0.56335,0.48234,9-Aug-10
+Docetaxel,NB10,neuroblastoma,CNS,949171,1089867,-4.4157,-4.8954,-3.5715,1.1389,15-Mar-12
+Docetaxel,NB12,neuroblastoma,CNS,949172,805197,-3.6044,-4.39,-2.1703,0.71144,25-Oct-10
+Docetaxel,NB6,neuroblastoma,CNS,949173,788005,-3.231,-4.4501,0.9912,1.1764,6-Sep-10
+Docetaxel,NB7,neuroblastoma,CNS,949174,788006,-4.3877,-5.5412,-2.4364,0.49769,9-Aug-10
+Docetaxel,NB17,neuroblastoma,CNS,949175,805201,-6.2687,-6.7939,-5.6584,0.71025,20-Sep-10
+Docetaxel,NB5,neuroblastoma,CNS,949176,788004,-3.9682,-4.9922,-1.3973,1.1073,9-Aug-10
+Docetaxel,NB13,neuroblastoma,CNS,949177,788002,-6.843,-7.2368,-6.4589,0.77749,9-Aug-10
+Docetaxel,NB14,neuroblastoma,CNS,949178,805198,-8.2549,-8.506,-7.9735,1.2366,15-Nov-10
+Docetaxel,RH-1,rhabdomyosarcoma (putative Ewing's),soft tissue,971773,805079,-7.8606,-8.3398,-7.3998,1.1878,6-Dec-10
+Docetaxel,RH-18,rhabdomyosarcoma,soft tissue,971774,950670,-3.2799,-4.1393,-1.7607,0.78043,9-May-11
+Docetaxel,MZ2-MEL,malignant_melanoma,skin,971777,805196,-5.024,-5.4912,-4.4302,0.59065,25-Oct-10
+Docetaxel,PFSK-1,medulloblastoma,CNS,683667,788122,-7.3284,-7.8875,-6.8043,0.56488,26-Jul-10
+Docetaxel,A673,rhabdomyosarcoma (putative Ewing's),soft tissue,684052,788047,-6.0541,-6.3942,-5.7023,1.4883,10-Jun-10
+Docetaxel,ES3,Ewings sarcoma,bone,684055,787983,-5.8887,-6.3337,-5.4023,1.259,17-Jun-10
+Docetaxel,ES5,Ewings sarcoma,bone,684057,805159,-7.0018,-7.4352,-6.5915,0.71623,20-Sep-10
+Docetaxel,ES7,Ewings sarcoma,bone,684059,805163,-7.8531,-8.2419,-7.4949,0.99405,28-Feb-11
+Docetaxel,EW-11,Ewings sarcoma,bone,684062,805170,-6.3856,-6.752,-6.0429,0.60151,20-Sep-10
+Docetaxel,NCI-H1395,lung: NSCLC: adenocarcinoma,lung,684681,771914,-5.5309,-6.2888,-4.5672,0.60101,12-Jul-10
+Docetaxel,COLO-829,malignant_melanoma,skin,687448,771757,-4.9271,-5.4935,-4.0174,1.0962,17-May-10
+Docetaxel,5637,bladder,bladder,687452,787937,-8.8505,-9.6436,-8.3647,1.1388,26-Jul-10
+Docetaxel,SW780,bladder,bladder,687457,771728,-7.4413,-7.7609,-7.1186,0.94984,5-Jul-10
+Docetaxel,TCCSUP,bladder,bladder,687459,787958,-4.5699,-5.3233,-3.4405,0.8449,7-Jun-10
+Docetaxel,C-33-A,cervix,uterus,687505,805073,-5.9298,-6.2103,-5.641,0.92235,29-Nov-10
+Docetaxel,ME-180,cervix,uterus,687514,805354,-6.3836,-6.8459,-5.9757,0.90299,29-Nov-10
+Docetaxel,8-MG-BA,glioma,CNS,687562,787972,-7.4373,-7.7948,-7.0408,0.89894,2-Aug-10
+Docetaxel,A172,glioma,CNS,687563,785909,-6.4206,-6.9761,-5.8555,1.1403,22-Apr-10
+Docetaxel,GB-1,glioma,CNS,687568,787988,-5.2763,-5.7789,-4.6376,1.0584,2-Aug-10
+Docetaxel,T98G,glioma,CNS,687586,787957,-6.7509,-7.113,-6.3837,0.84747,2-Aug-10
+Docetaxel,U-118-MG,glioma,CNS,687588,787960,-4.2202,-4.7054,-3.3024,1.1392,26-Jul-10
+Docetaxel,U-87-MG,glioma,CNS,687590,787964,-5.6417,-5.8995,-5.0435,1.0921,6-Sep-10
+Docetaxel,YKG-1,glioma,CNS,687592,787971,-7.2549,-7.6449,-6.8687,0.6517,2-Aug-10
+Docetaxel,ChaGo-K-1,lung: NOS,lung,687596,771789,-4.6169,-5.3753,-3.1695,1.0165,21-Jun-10
+Docetaxel,NCI-H720,lung: NSCLC: carcinoid,lung,687600,1016457,-7.4523,-8.3642,-6.5915,0.55759,10-Jun-11
+Docetaxel,Calu-3,lung: NSCLC: adenocarcinoma,lung,687777,787970,-1.9794,-3.9429,2.1769,0.9635,6-Sep-10
+Docetaxel,COR-L23,lung: NSCLC: large cell,lung,687780,771804,-6.1196,-6.4433,-5.8269,0.89593,8-Jul-10
+Docetaxel,LK-2,lung: NSCLC: squamous_cell_carcinoma,lung,687787,805338,-6.7145,-6.8888,-6.5697,1.9509,29-Nov-10
+Docetaxel,NCI-H1437,lung: NSCLC: adenocarcinoma,lung,687794,788086,-5.9515,-6.4749,-5.3904,1.0568,3-Jun-10
+Docetaxel,NCI-H1623,lung: NSCLC: adenocarcinoma,lung,687798,788089,-4.7603,-5.1333,-4.2551,0.92732,16-Aug-10
+Docetaxel,NCI-H1648,lung: NSCLC: adenocarcinoma,lung,687799,771916,-5.1136,-6.1456,-3.4342,1.0154,13-May-10
+Docetaxel,NCI-H1650,lung: NSCLC: adenocarcinoma,lung,687800,771917,-4.3989,-5.2706,-2.8979,0.8835,14-Jun-10
+Docetaxel,NCI-H1693,lung: NSCLC: adenocarcinoma,lung,687802,788090,-3.1454,-4.5629,0.20322,0.92856,10-Jun-10
+Docetaxel,NCI-H1770,lung: NSCLC: NOS,lung,687804,982024,-5.6787,-6.3033,-4.8886,1.0915,11-Mar-11
+Docetaxel,NCI-H1838,lung: NSCLC: adenocarcinoma,lung,687807,771919,-1.1462,-3.5938,3.3501,0.9721,17-May-10
+Docetaxel,NCI-H2126,lung: NSCLC: adenocarcinoma,lung,687814,771782,-4.8629,-5.5147,-2.7265,1.3889,17-May-10
+Docetaxel,NCI-H2170,lung: NSCLC: squamous_cell_carcinoma,lung,687815,771927,-5.2311,-5.8114,-4.3193,1.1107,14-Jun-10
+Docetaxel,NCI-H2228,lung: NSCLC: adenocarcinoma,lung,687816,788099,-4.9264,-5.7207,-3.8672,0.98439,10-Jun-10
+Docetaxel,NCI-H2342,lung: NSCLC: adenocarcinoma,lung,687819,788100,-3.3151,-4.3332,-1.3968,0.78641,26-Jul-10
+Docetaxel,NCI-H2347,lung: NSCLC: NOS,lung,687820,805388,-4.1127,-4.9709,-2.8726,0.71383,16-Dec-10
+Docetaxel,NCI-H2405,lung: NSCLC: adenocarcinoma,lung,687821,805389,-2.7515,-4.0064,-0.22126,0.90108,1-Nov-10
+Docetaxel,NCI-H661,lung: NSCLC: large cell,lung,687829,771934,-4.5999,-5.3903,-2.762,1.0931,14-Jun-10
+Docetaxel,DMS-114,lung: small_cell_carcinoma,lung,687983,1089884,-4.9674,-5.4922,-4.267,0.71359,1-Mar-12
+Docetaxel,DMS-273,lung: small_cell_carcinoma,lung,687985,805244,-7.3018,-7.6937,-6.9045,0.78673,13-Dec-10
+Docetaxel,NCI-H1048,lung: small_cell_carcinoma,lung,687995,950700,-6.2557,-6.5174,-5.9741,0.91156,9-May-11
+Docetaxel,NCI-H1092,lung: small_cell_carcinoma,lung,687997,1016452,-3.6292,-5.0547,-0.78557,0.67834,24-May-11
+Docetaxel,NCI-H2029,lung: small_cell_carcinoma,lung,688011,788096,-1.5974,-3.5728,2.2534,0.97367,19-Jul-10
+Docetaxel,NCI-H209,lung: small_cell_carcinoma,lung,688013,1016455,-5.8564,-6.5329,-5.0499,0.85692,10-Jun-11
+Docetaxel,NCI-H446,lung: small_cell_carcinoma,lung,688023,805392,-6.018,-6.3082,-5.5987,1.1388,4-Oct-10
+Docetaxel,NCI-H526,lung: small_cell_carcinoma,lung,688025,982025,-6.3412,-6.8948,-5.8,1.2317,11-Mar-11
+Docetaxel,NCI-H69,lung: small_cell_carcinoma,lung,688027,1016456,-3.0265,-4.5584,-0.17991,0.70517,31-May-11
+Docetaxel,NCI-H82,lung: small_cell_carcinoma,lung,688031,982027,-4.8017,-5.3257,-3.8891,1.1321,18-Mar-11
+Docetaxel,NCI-H2052,mesothelioma,lung,688058,950687,-4.9243,-5.4466,-4.1692,0.85941,9-Jun-11
+Docetaxel,SK-N-DZ,neuroblastoma,CNS,688086,981948,-4.6225,-5.2124,-3.3862,1.1961,18-Mar-11
+Docetaxel,SK-N-FI,neuroblastoma,CNS,688087,771719,-2.348,-4.3689,0.92455,0.75133,12-Jul-10
+Docetaxel,VA-ES-BJ,soft tissue other,soft tissue,688121,1089873,-7.8877,-8.9949,-7.0165,0.47858,8-Mar-12
+Docetaxel,LU-139,lung: small_cell_carcinoma,lung,713878,1016429,-4.4515,-5.354,-3.0197,0.66008,31-May-11
+Docetaxel,SBC-5,lung: small_cell_carcinoma,lung,713880,805084,-6.2796,-6.5875,-5.9841,0.83601,25-Oct-10
+Docetaxel,SBC-1,lung: small_cell_carcinoma,lung,713885,1016417,-7.7524,-8.3919,-7.1538,0.66538,10-Jun-11
+Docetaxel,LU-135,lung: small_cell_carcinoma,lung,713899,1016445,-1.2823,-3.7329,2.8258,0.96988,14-Jun-11
+Docetaxel,NCI-H2030,lung: NSCLC: adenocarcinoma,lung,722045,771923,-4.3787,-5.2425,-2.1372,1.0768,17-May-10
+Docetaxel,NCI-H2122,lung: NSCLC: adenocarcinoma,lung,722046,771926,-6.2979,-6.6223,-5.9747,1.427,20-May-10
+Docetaxel,NCI-H650,lung: NSCLC: adenocarcinoma,lung,722066,805398,-6.0962,-6.7009,-5.4055,0.58376,25-Oct-10
+Docetaxel,T-24,bladder,bladder,724812,950674,-4.0715,-5.1245,-0.39678,1.165,16-Jun-11
+Docetaxel,SK-N-AS,neuroblastoma,CNS,724828,787949,-5.2303,-5.8027,-4.4145,1.0112,7-Jun-10
+Docetaxel,NCI-H1299,lung: NSCLC: large cell,lung,724831,771913,-4.759,-5.5357,-3.439,0.94635,14-Jun-10
+Docetaxel,NCI-H2087,lung: NSCLC: adenocarcinoma,lung,724834,788098,-4.8954,-5.2885,-4.4093,0.82803,2-Sep-10
+Docetaxel,UM-UC-3,bladder,bladder,724838,805125,-1.1618,-6.2905,3.8265,0.9965,10-May-10
+Docetaxel,SW756,cervix,uterus,724839,1089839,-6.1371,-7.0021,-5.1264,0.43671,26-Mar-12
+Docetaxel,NCI-H727,lung: NSCLC: carcinoid,lung,724855,805399,-3.6995,-4.7389,-1.6355,0.71581,4-Oct-10
+Docetaxel,Calu-6,lung: NSCLC: adenocarcinoma,lung,724859,805144,-5.4095,-5.9324,-4.7595,0.64523,25-Oct-10
+Docetaxel,LU-65,lung other,lung,724863,1016447,-3.2431,-5.1591,0.22398,0.7279,31-May-11
+Docetaxel,NCI-H1355,lung: NSCLC: adenocarcinoma,lung,724866,771779,-4.9917,-5.6962,-3.9797,0.99115,27-May-10
+Docetaxel,NCI-H1792,lung: NSCLC: adenocarcinoma,lung,724868,788091,-6.8665,-7.1059,-6.6229,1.0341,9-Aug-10
+Docetaxel,HPAF-II,pancreas,pancreas,724869,771844,-4.6818,-5.3088,-2.649,1.2543,14-Jun-10
+Docetaxel,MIA-PaCa-2,pancreas,pancreas,724870,788082,-5.7318,-6.1919,-5.2525,1.1656,7-Jun-10
+Docetaxel,SHP-77,lung: small_cell_carcinoma,lung,724872,805091,-2.1507,-3.9915,1.7723,0.88088,4-Oct-10
+Docetaxel,NCI-H2291,lung: NSCLC: adenocarcinoma,lung,724874,805387,-3.9963,-4.4943,-3.1113,0.98265,6-Dec-10
+Docetaxel,SW1573,lung: NSCLC: adenocarcinoma,lung,724878,1089836,-5.195,-5.5713,-4.7678,0.62266,23-Feb-12
+Docetaxel,SW900,lung: NSCLC: squamous_cell_carcinoma,lung,724879,771729,-4.8863,-5.8008,-2.3784,1.0867,17-May-10
+Docetaxel,TE-5,oesophagus,upper aerodigestive,735784,805223,-6.8462,-7.2107,-6.4721,0.81098,8-Nov-10
+Docetaxel,HCC1954,breast,breast,749709,805270,-3.8205,-5.1399,-2.1012,0.64626,1-Nov-10
+Docetaxel,HCC1395,breast,breast,749712,1089900,-4.5505,-4.8152,-4.1475,1.0936,15-Mar-12
+Docetaxel,HCC1937,breast,breast,749714,771834,-1.9013,-4.1247,2.5311,0.9699,17-Jun-10
+Docetaxel,HCC2218,breast,breast,749716,1016439,-3.2727,-4.788,-0.64371,0.65723,31-May-11
+Docetaxel,HCC38,breast,breast,749717,805272,-5.1153,-5.3343,-4.6042,1.1151,16-Dec-10
+Docetaxel,BB30-HNC,upper_aerodigestive_tract,upper aerodigestive,753531,805141,-6.8595,-7.1289,-6.5673,0.95635,8-Nov-10
+Docetaxel,BB49-HNC,upper_aerodigestive_tract,upper aerodigestive,753532,805142,-6.1568,-6.4937,-5.8372,0.6204,22-Nov-10
+Docetaxel,BB65-RCC,Renal cell carcinoma,kidney,753533,771756,-5.7814,-6.4465,-5.0322,0.72208,28-Jun-10
+Docetaxel,BEN,lung: NOS,lung,753534,788084,-2.3661,-4.3013,1.5664,0.86327,10-Jun-10
+Docetaxel,BHY,upper_aerodigestive_tract,upper aerodigestive,753535,771915,-6.1376,-6.6878,-5.5559,0.88351,24-May-10
+Docetaxel,Ca9-22,upper_aerodigestive_tract,upper aerodigestive,753538,805098,-7.7672,-8.22,-7.3897,0.96903,30-Sep-10
+Docetaxel,CAL-12T,lung: NSCLC: NOS,lung,753540,950673,-5.583,-6.1161,-5.0132,0.53892,9-May-11
+Docetaxel,CAL-33,upper_aerodigestive_tract,upper aerodigestive,753541,805113,-6.8647,-7.2406,-6.4423,0.9217,4-Oct-10
+Docetaxel,CP50-MEL-B,malignant_melanoma,skin,753545,868105,-4.9721,-6.0005,-3.6518,0.55554,18-Feb-10
+Docetaxel,CP66-MEL,malignant_melanoma,skin,753546,798471,-5.8079,-6.2923,-5.3411,0.75929,15-Mar-10
+Docetaxel,CTV-1,AML,blood,753548,1016434,-5.6926,-6.2832,-5.0308,0.8633,31-May-11
+Docetaxel,D-542MG,glioma,CNS,753549,798472,-1.8153,-3.9097,2.2226,0.74685,8-Mar-10
+Docetaxel,DMS-79,lung: small_cell_carcinoma,lung,753551,1016435,-3.0838,-4.4727,0.11649,0.86977,17-Jun-11
+Docetaxel,DSH1,bladder,bladder,753552,787982,-4.1354,-4.9846,-3.0423,0.75052,6-Sep-10
+Docetaxel,EC-GI-10,oesophagus,upper aerodigestive,753555,805153,-7.4318,-7.7765,-7.0973,1.0251,30-Sep-10
+Docetaxel,EPLC-272H,lung: NSCLC: squamous_cell_carcinoma,lung,753556,805248,-6.8058,-7.2255,-6.3794,0.52862,8-Nov-10
+Docetaxel,HCE-4,oesophagus,upper aerodigestive,753559,771765,-6.0038,-6.4771,-5.5576,1.0906,1-Jul-10
+Docetaxel,HSC-2,upper_aerodigestive_tract,upper aerodigestive,753562,950694,-7.1895,-7.6593,-6.7301,1.3093,9-May-11
+Docetaxel,IST-SL1,lung: small_cell_carcinoma,lung,753564,787992,-5.7687,-7.1834,-5.0942,1.1073,9-Aug-10
+Docetaxel,J82,bladder,bladder,753566,805307,-4.276,-5.361,-1.6655,1.0924,10-May-10
+Docetaxel,KNS-62,lung: NSCLC: squamous_cell_carcinoma,lung,753569,1089864,-6.797,-7.5771,-6.0535,0.38342,12-Apr-12
+Docetaxel,KOSC-2,upper_aerodigestive_tract,upper aerodigestive,753570,771868,-8.2757,-9.1482,-7.5647,0.86302,5-Jul-10
+Docetaxel,KP-4,pancreas,pancreas,753572,771872,-6.4613,-7.0125,-5.9535,1.353,10-May-10
+Docetaxel,KYSE-140,oesophagus,upper aerodigestive,753573,805328,-6.9774,-7.4436,-6.5003,0.52231,8-Nov-10
+Docetaxel,KYSE-410,oesophagus,upper aerodigestive,753574,805333,-6.6966,-7.1787,-6.2545,0.85583,22-Nov-10
+Docetaxel,KYSE-520,oesophagus,upper aerodigestive,753575,771881,-4.9615,-5.5419,-4.0246,0.92915,1-Jul-10
+Docetaxel,KYSE-70,oesophagus,upper aerodigestive,753576,771882,-5.0761,-5.5541,-4.4445,1.0995,1-Jul-10
+Docetaxel,LB1047-RCC,Renal cell carcinoma,kidney,753577,1089865,-4.7327,-5.1863,-4.0468,0.99094,30-Apr-12
+Docetaxel,LB2241-RCC,Renal cell carcinoma,kidney,753578,771774,-5.2382,-5.7602,-4.5478,1.0677,28-Jun-10
+Docetaxel,LB2518-MEL,malignant_melanoma,skin,753579,868111,-3.8347,-4.9382,-1.3799,1.0012,18-Feb-10
+Docetaxel,LB373-MEL-D,malignant_melanoma,skin,753581,798485,-4.5151,-5.2096,-3.3955,0.84843,18-Feb-10
+Docetaxel,LB771-HNC,upper_aerodigestive_tract,upper aerodigestive,753583,805187,-3.5623,-4.5952,-0.55066,1.0955,30-Sep-10
+Docetaxel,LB831-BLC,bladder,bladder,753584,805188,-6.5163,-6.9216,-6.1052,0.72345,22-Nov-10
+Docetaxel,LCLC-103H,lung: NSCLC: large cell,lung,753586,805337,-5.8316,-6.2074,-5.4524,1.0395,17-May-10
+Docetaxel,LU-134-A,lung: small_cell_carcinoma,lung,753588,981973,-4.5079,-5.0359,-3.6004,1.0706,21-Feb-11
+Docetaxel,LXF-289,lung: NSCLC: adenocarcinoma,lung,753592,1089866,-7.1847,-7.4925,-6.8967,0.89678,23-Apr-12
+Docetaxel,MS-1,lung: small_cell_carcinoma,lung,753594,982021,-4.1699,-5.0723,-2.4373,0.90043,25-Feb-11
+Docetaxel,MZ1-PC,pancreas,pancreas,753595,805195,-6.7426,-7.4771,-6.0452,0.677,1-Nov-10
+Docetaxel,MZ7-mel,malignant_melanoma,skin,753596,868112,-3.9453,-4.8398,-2.4295,0.7706,18-Feb-10
+Docetaxel,NCI-H1304,lung: small_cell_carcinoma,lung,753599,1016453,-1.8288,-4.0771,2.3024,0.93145,14-Jun-11
+Docetaxel,NCI-H1563,lung: NSCLC: adenocarcinoma,lung,753600,1089950,-4.5213,-5.0362,-3.4928,0.75825,23-Feb-12
+Docetaxel,NCI-H292,lung: NSCLC: adenocarcinoma,lung,753604,805266,-8.7495,-9.3949,-8.1721,0.67199,22-Nov-10
+Docetaxel,NCI-H510A,lung: small_cell_carcinoma,lung,753605,805394,-7.9976,-9.1534,-7.0125,0.7142,15-Nov-10
+Docetaxel,U-266,Myeloma,blood,753615,805120,-5.6619,-6.6154,-4.6313,0.62468,25-Oct-10
+Docetaxel,TE-1,oesophagus,upper aerodigestive,753621,805220,-6.1381,-6.5233,-5.7303,0.85439,25-Oct-10
+Docetaxel,TE-10,oesophagus,upper aerodigestive,753622,805221,-5.9773,-6.522,-5.3833,0.5477,1-Nov-10
+Docetaxel,TE-8,oesophagus,upper aerodigestive,753623,805225,-7.9142,-8.3356,-7.5227,1.0427,4-Oct-10
+Docetaxel,CAPAN-1,pancreas,pancreas,753624,787978,-3.4893,-4.9714,0.35666,1.0127,3-Jun-10
+Docetaxel,OVCAR-3,ovary,ovary,905933,771937,-5.5034,-5.8606,-5.1043,1.3561,21-Jun-10
+Docetaxel,PC-3,prostate,other,905934,805419,-3.8943,-5.0466,-1.235,0.91766,10-May-10
+Docetaxel,DU-145,prostate,other,905935,788027,-4.5037,-5.7247,-1.8922,1.0389,10-Jun-10
+Docetaxel,HCT-116,large_intestine,GI tract,905936,805277,-6.3171,-7.0754,-5.7348,0.90028,18-Oct-10
+Docetaxel,HL-60,AML,blood,905938,982000,-5.6309,-6.1101,-5.1175,1.2792,18-Jan-11
+Docetaxel,HT-29,large_intestine,GI tract,905939,950696,-5.8795,-6.5974,-5.0071,0.45799,14-Apr-11
+Docetaxel,K-562,CML,blood,905940,982005,-0.26105,-2.9094,4.1698,1.0489,8-Feb-11
+Docetaxel,NCI-H226,lung: NSCLC: squamous_cell_carcinoma,lung,905941,805385,-5.6042,-5.9039,-5.2985,1.1062,30-Sep-10
+Docetaxel,NCI-H23,lung: NSCLC: NOS,lung,905942,771928,-5.6169,-5.9333,-5.2646,1.3096,21-Jun-10
+Docetaxel,T47D,breast,breast,905945,771733,-5.447,-5.8238,-5.0501,0.91641,12-Jul-10
+Docetaxel,MCF7,breast,breast,905946,805350,-6.4326,-7.0582,-5.8067,0.55721,1-Nov-10
+Docetaxel,786-0,clear cell carcinoma,kidney,905947,771813,-4.8465,-5.7175,-2.0582,1.2727,14-Jun-10
+Docetaxel,A498,Renal other,kidney,905948,787973,-8.1865,-8.8439,-7.5965,0.79488,26-Jul-10
+Docetaxel,A549,lung: NSCLC: NOS,lung,905949,805289,-7.0338,-7.5992,-6.5226,0.74062,13-Dec-10
+Docetaxel,ACHN,Renal cell carcinoma,kidney,905950,771858,-3.2942,-4.8182,0.97396,1.0619,10-May-10
+Docetaxel,CCRF-CEM,lymphoblastic leukemia,blood,905952,981972,-1.2869,-3.6492,3.0354,0.91956,7-Feb-11
+Docetaxel,SK-MEL-28,malignant_melanoma,skin,905954,771718,-6.2017,-6.9845,-5.345,0.73361,13-May-10
+Docetaxel,SK-MEL-2,malignant_melanoma,skin,905955,805099,-6.3768,-6.7188,-6.0472,0.65607,4-Apr-11
+Docetaxel,Hs-578-T,breast,breast,905957,1089916,-5.9087,-6.0482,-5.7733,1.0719,30-Apr-12
+Docetaxel,MOLT-4,lymphoblastic leukemia,blood,905958,982020,-5.3591,-5.8894,-4.7043,0.96321,18-Jan-11
+Docetaxel,SK-OV-3,ovary,ovary,905959,798465,0.19958,-2.6108,4.5888,1.0564,22-Mar-10
+Docetaxel,MDA-MB-231,breast,breast,905960,805351,-4.9199,-5.584,-4.2344,0.59466,8-Nov-10
+Docetaxel,SW620,large_intestine,GI tract,905962,787956,-5.5296,-5.9559,-5.1038,0.906,3-Jun-10
+Docetaxel,CAKI-1,clear cell carcinoma,kidney,905963,771720,-4.5349,-5.0142,-3.5741,1.2081,20-May-10
+Docetaxel,RPMI-8226,Myeloma,blood,905964,981987,-5.3044,-5.9001,-4.0932,1.1231,1-Feb-11
+Docetaxel,IGROV-1,ovary,ovary,905968,798508,-1.086,-3.5019,3.1271,0.99957,8-Mar-10
+Docetaxel,OVCAR-5,ovary,ovary,905969,1089971,-6.2178,-6.6096,-5.8277,0.69066,26-Apr-12
+Docetaxel,EKVX,lung: NSCLC: adenocarcinoma,lung,905970,1089854,-2.9217,-4.224,-0.803,0.30367,16-Apr-12
+Docetaxel,HCC2998,large_intestine,GI tract,905971,771764,-5.5025,-5.9327,-5.0298,1.0478,21-Jun-10
+Docetaxel,HOP-62,lung: NSCLC: adenocarcinoma,lung,905972,798479,-2.5671,-4.5545,1.0161,0.68565,22-Mar-10
+Docetaxel,HOP-92,lung: NSCLC: large cell,lung,905973,788043,-4.9204,-5.4525,-4.115,1.0944,10-Jun-10
+Docetaxel,LOXIMVI,malignant_melanoma,skin,905974,771775,-6.7558,-7.3348,-6.1468,0.87215,28-Jun-10
+Docetaxel,M14,malignant_melanoma,skin,905975,805347,-6.2626,-6.6444,-5.8954,0.85562,4-Apr-11
+Docetaxel,UACC-62,malignant_melanoma,skin,905976,805122,-5.7137,-6.1888,-5.0618,1.025,13-Dec-10
+Docetaxel,UACC-257,malignant_melanoma,skin,905977,771799,-3.4965,-4.8169,-1.5313,0.56801,12-Jul-10
+Docetaxel,RXF393,Renal cell carcinoma,kidney,905978,771788,-6.1125,-6.7856,-5.1123,1.1266,28-Jun-10
+Docetaxel,SN12C,Renal cell carcinoma,kidney,905979,771721,-5.2032,-5.742,-4.4956,1.0579,27-May-10
+Docetaxel,TK10,Renal cell carcinoma,kidney,905980,788019,-4.6283,-5.2704,-3.2426,1.0217,26-Jul-10
+Docetaxel,U031,Renal cell carcinoma,kidney,905981,771747,-5.7845,-6.4121,-5.1164,0.99484,17-May-10
+Docetaxel,SNB75,glioma,CNS,905982,788013,-5.5708,-5.8964,-5.2289,0.87378,2-Aug-10
+Docetaxel,U251,glioma,CNS,905983,787961,-5.9932,-6.5612,-5.2454,0.98258,3-Jun-10
+Docetaxel,SF539,glioma,CNS,905984,788011,-8.1052,-8.5154,-7.7181,0.68606,2-Aug-10
+Docetaxel,SF295,glioma,CNS,905985,1089820,-4.4866,-4.8399,-3.9094,1.042,23-Apr-12
+Docetaxel,SF268,glioma,CNS,905986,788010,-6.7203,-7.4003,-6.0401,0.55423,2-Aug-10
+Docetaxel,KM12,large_intestine,GI tract,905989,771772,-5.5013,-5.7939,-5.0621,1.0533,5-Jul-10
+Docetaxel,OVCAR-4,ovary,ovary,905990,1089869,-5.1403,-5.3649,-4.9134,0.89552,15-Mar-12
+Docetaxel,OVCAR-8,ovary,ovary,905991,805409,-6.1573,-6.4712,-5.7994,1.2636,13-Dec-10
+Docetaxel,BxPC-3,pancreas,pancreas,906693,868131,-5.9885,-6.5547,-5.5063,0.70025,15-Mar-10
+Docetaxel,BHT-101,thyroid,thyroid,906696,1089949,-4.6254,-5.1392,-3.0069,1.1123,23-Feb-12
+Docetaxel,Becker,glioma,CNS,906746,787976,-6.3055,-6.7455,-5.8998,0.95204,6-Sep-10
+Docetaxel,BE-13,lymphoblastic leukemia,blood,906763,981957,-5.538,-5.9891,-5.0412,0.89554,7-Feb-11
+Docetaxel,ABC-1,lung: NSCLC: adenocarcinoma,lung,906791,950693,-4.4692,-5.0736,-3.2384,1.1418,16-Jun-11
+Docetaxel,A2058,malignant_melanoma,skin,906792,771831,-7.5167,-7.908,-7.1238,1.3224,17-May-10
+Docetaxel,8305C,thyroid,thyroid,906795,950686,-5.1572,-5.5242,-4.6922,0.60137,9-May-11
+Docetaxel,647-V,bladder,bladder,906797,771807,-6.297,-6.873,-5.8046,1.0512,14-Jun-10
+Docetaxel,639-V,bladder,bladder,906798,771805,-7.343,-7.7468,-6.9703,0.84879,8-Jul-10
+Docetaxel,697,lymphoblastic leukemia,blood,906800,981953,-6.3665,-6.6069,-6.1329,2.0831,25-Feb-11
+Docetaxel,BT-20,breast,breast,906801,805400,-5.5838,-6.0278,-5.028,0.46512,4-Apr-11
+Docetaxel,ACN,neuroblastoma,CNS,906803,787974,-5.0456,-5.437,-4.5532,1.0462,19-Jul-10
+Docetaxel,A2780,ovary,ovary,906804,771832,-5.698,-6.0504,-5.3068,1.407,21-Jun-10
+Docetaxel,COR-L105,lung: NSCLC: adenocarcinoma,lung,906805,950685,-0.96942,-3.5863,3.4359,1.037,16-Jun-11
+Docetaxel,COR-L88,lung: small_cell_carcinoma,lung,906808,1016432,-3.8854,-5.1683,-1.6737,0.74113,10-Jun-11
+Docetaxel,COLO-824,breast,breast,906812,805236,-5.1335,-5.5558,-4.5676,0.9159,1-Nov-10
+Docetaxel,COLO-800,malignant_melanoma,skin,906813,950684,-7.8553,-8.4028,-7.3153,0.65326,14-Apr-11
+Docetaxel,COLO-792,malignant_melanoma,skin,906814,788020,-3.8185,-4.9104,-1.3249,0.98625,10-Jun-10
+Docetaxel,COLO-741,large_intestine,GI tract,906815,805230,-4.804,-5.4351,-3.2008,1.2133,20-May-10
+Docetaxel,COLO-680N,oesophagus,upper aerodigestive,906817,805235,-5.2824,-5.8767,-3.6034,0.91104,1-Jul-10
+Docetaxel,COLO-679,malignant_melanoma,skin,906818,868116,-0.47526,-3.2112,4.094,0.95554,22-Mar-10
+Docetaxel,CHP-212,neuroblastoma,CNS,906820,771797,-7.2227,-8.344,-6.0891,0.30809,8-Jul-10
+Docetaxel,CFPAC-1,pancreas,pancreas,906821,771783,-4.2647,-5.2727,-2.6191,0.46246,5-Jul-10
+Docetaxel,Ca-Ski,cervix,uterus,906824,805090,-7.225,-8.0063,-6.6691,0.55047,13-Dec-10
+Docetaxel,CAL-120,breast,breast,906826,868102,-5.4372,-6.3538,-4.5431,0.54818,1-Mar-10
+Docetaxel,CAL-72,osteosarcoma,bone,906827,981952,-3.5344,-4.9838,-0.29007,0.86832,18-Mar-11
+Docetaxel,CAL-62,thyroid,thyroid,906828,805121,-8.5955,-9.3016,-7.9701,0.88179,19-Jul-10
+Docetaxel,C8166,lymphoid_neoplasm other,blood,906829,981946,-0.71289,-3.3758,3.9748,1.0168,7-Feb-11
+Docetaxel,DB,B cell lymphoma,blood,906832,981995,-6.3321,-7.2375,-5.3972,0.78642,18-Mar-11
+Docetaxel,Daoy,medulloblastoma,CNS,906833,771809,-7.2639,-7.7615,-6.8476,1.0934,28-Jun-10
+Docetaxel,D-283MED,medulloblastoma,CNS,906834,1089883,-5.0769,-5.4644,-4.6548,0.68845,15-Mar-12
+Docetaxel,DBTRG-05MG,glioma,CNS,906835,981996,-4.6923,-5.7738,-3.1308,0.75442,18-Mar-11
+Docetaxel,DEL,lymphoid_neoplasm other,blood,906836,981962,-5.8052,-6.5958,-4.8897,0.86312,25-Jan-11
+Docetaxel,Detroit562,upper_aerodigestive_tract,upper aerodigestive,906837,805242,-7.0114,-7.4085,-6.4433,1.2169,4-Oct-10
+Docetaxel,DK-MG,glioma,CNS,906839,805243,-4.7563,-5.2516,-4.0532,1.094,12-Jul-10
+Docetaxel,DJM-1,other,skin,906841,868106,-0.2385,-2.8043,3.8781,0.9929,8-Mar-10
+Docetaxel,DOHH-2,B cell lymphoma,blood,906842,981963,-5.0667,-5.8605,-3.2491,1.1721,7-Feb-11
+Docetaxel,DoTc2-4510,cervix,uterus,906843,788026,-2.9103,-4.6496,0.66793,0.87815,3-Jun-10
+Docetaxel,DU-4475,breast,breast,906844,1016436,-5.8011,-7.1348,-4.3133,0.49182,10-Jun-11
+Docetaxel,ECC10,stomach,GI tract,906848,1016421,-5.3824,-6.0744,-4.4938,0.75237,10-Jun-11
+Docetaxel,EFM-19,breast,breast,906851,771816,-6.1405,-7.0355,-4.2204,0.6304,8-Jul-10
+Docetaxel,EFO-27,ovary,ovary,906852,788029,-6.8847,-7.3746,-6.4145,0.68896,16-Aug-10
+Docetaxel,EGI-1,biliary_tract,GI tract,906853,771817,-5.6222,-6.0956,-5.1108,0.74793,17-Jun-10
+Docetaxel,EM-2,CML,blood,906855,981964,-5.0782,-5.563,-4.3616,1.2006,1-Feb-11
+Docetaxel,EoL-1-cell,haematopoietic_neoplasm other,blood,906856,1016437,-6.3615,-6.9007,-5.8789,1.1438,31-May-11
+Docetaxel,ETK-1,biliary_tract,GI tract,906861,805167,-7.4909,-8.1011,-6.8815,0.6882,20-Sep-10
+Docetaxel,FADU,upper_aerodigestive_tract,upper aerodigestive,906863,771819,-5.2777,-5.9256,-4.4341,0.97928,1-Jul-10
+Docetaxel,FTC-133,thyroid,thyroid,906864,788030,-7.6231,-8.0173,-7.2095,1.0002,2-Aug-10
+Docetaxel,G-361,malignant_melanoma,skin,906865,798500,-2.0936,-3.6899,1.0476,0.77525,22-Mar-10
+Docetaxel,GAMG,glioma,CNS,906868,788033,-7.7857,-8.563,-7.0414,0.83913,16-Aug-10
+Docetaxel,GCIY,stomach,GI tract,906869,787989,-3.688,-4.3909,-2.2876,0.93416,6-Sep-10
+Docetaxel,GI-1,glioma,CNS,906871,787990,-7.5472,-8.1665,-6.752,0.92996,2-Aug-10
+Docetaxel,GI-ME-N,neuroblastoma,CNS,906872,805175,-5.6333,-5.9935,-5.2221,0.59415,1-Nov-10
+Docetaxel,GMS-10,glioma,CNS,906873,771824,-6.969,-7.3412,-6.0342,1.1594,12-Jul-10
+Docetaxel,GOTO,neuroblastoma,CNS,906875,1089893,-6.088,-6.5593,-5.5647,0.93211,15-Mar-12
+Docetaxel,GR-ST,lymphoblastic leukemia,blood,906877,981967,-3.4468,-4.5431,-0.32903,1.0209,22-Feb-11
+Docetaxel,GCT,soft tissue other,soft tissue,906999,771823,-6.3214,-6.8478,-5.8386,1.2007,20-May-10
+Docetaxel,ESS-1,endometrium,uterus,907000,868118,-8.6297,-9.3156,-7.9645,0.55551,1-Mar-10
+Docetaxel,GT3TKB,stomach,GI tract,907041,805176,-8.367,-8.7587,-7.9826,1.1509,13-May-10
+Docetaxel,H4,glioma,CNS,907042,788038,-6.2335,-6.5903,-5.9515,1.2501,2-Aug-10
+Docetaxel,H9,lymphoid_neoplasm other,blood,907043,1016425,-6.6889,-7.2361,-6.1542,0.85248,31-May-11
+Docetaxel,HC-1,hairy_cell_leukaemia,blood,907044,1016438,-5.0267,-5.6884,-3.9155,0.9459,17-Jun-11
+Docetaxel,HCC1419,breast,breast,907045,1089901,-2.4094,-4.0872,1.3374,0.90702,23-Feb-12
+Docetaxel,HCC1569,breast,breast,907046,805269,-1.0697,-4.0807,3.3273,0.95791,29-Nov-10
+Docetaxel,HCC1806,breast,breast,907047,771833,-6.7438,-7.2069,-6.265,1.1688,21-Jun-10
+Docetaxel,HCC70,breast,breast,907048,805275,-5.8873,-6.9867,-4.6638,0.64266,28-Jun-10
+Docetaxel,HCE-T,upper_aerodigestive_tract,upper aerodigestive,907049,868109,-8.73,-10.765,-6.8478,0.22927,1-Mar-10
+Docetaxel,HD-MY-Z,Hodgkin lymphoma,blood,907050,1089908,-6.5634,-7.0208,-6.1355,1.0292,16-Apr-12
+Docetaxel,HEC-1,endometrium,uterus,907051,805280,-5.7991,-6.3349,-5.2426,0.87739,4-Oct-10
+Docetaxel,HEL,AML,blood,907053,771839,-1.132,-3.7028,3.3766,0.95886,28-Jun-10
+Docetaxel,HGC-27,stomach,GI tract,907055,788041,-7.6609,-7.9496,-7.3584,1.1754,9-Aug-10
+Docetaxel,HH,lymphoid_neoplasm other,blood,907056,981999,-3.5072,-4.6931,-0.83103,0.97349,22-Feb-11
+Docetaxel,HLE,liver,other,907057,788042,-5.5093,-5.9094,-5.0762,1.1261,7-Jun-10
+Docetaxel,HMV-II,malignant_melanoma,skin,907058,785911,-2.4068,-5.1132,1.8528,0.88684,22-Apr-10
+Docetaxel,HN,upper_aerodigestive_tract,upper aerodigestive,907059,771840,-7.1847,-7.6314,-6.7263,1.0739,1-Jul-10
+Docetaxel,HOS,osteosarcoma,bone,907060,805284,-7.1534,-7.5165,-6.7901,1.1635,28-Feb-11
+Docetaxel,HSC-3,upper_aerodigestive_tract,upper aerodigestive,907061,788048,-8.9362,-9.7187,-8.2775,0.96097,19-Jul-10
+Docetaxel,HSC-4,upper_aerodigestive_tract,upper aerodigestive,907062,950695,-8.3411,-9.2278,-7.5462,0.38488,20-Jun-11
+Docetaxel,HT,B cell lymphoma,blood,907063,982002,-3.2171,-4.4285,0.022521,1.0233,22-Feb-11
+Docetaxel,HT-1080,soft tissue other,soft tissue,907064,788049,-7.5988,-7.8911,-7.3363,1.3992,19-Jul-10
+Docetaxel,HT-1197,bladder,bladder,907065,868125,-4.5246,-5.0848,-3.7014,1.0396,22-Feb-10
+Docetaxel,HT-1376,bladder,bladder,907066,771847,-2.9593,-4.4649,0.7273,0.9144,14-Jun-10
+Docetaxel,HT-144,malignant_melanoma,skin,907067,868110,-8.7569,-10.137,-7.3051,0.4882,1-Mar-10
+Docetaxel,HT-3,cervix,uterus,907068,1089922,-5.8716,-6.4496,-5.2629,0.54141,14-May-12
+Docetaxel,HuCCT1,biliary_tract,GI tract,907069,805291,-5.1712,-5.663,-4.5526,0.59396,6-Dec-10
+Docetaxel,HuH-7,liver,other,907071,1089926,-4.3022,-4.7536,-3.6216,0.80116,26-Mar-12
+Docetaxel,HuO9,osteosarcoma,bone,907072,805295,-5.6676,-6.1325,-5.215,0.73451,28-Feb-11
+Docetaxel,IST-MEL1,malignant_melanoma,skin,907172,950679,-6.0948,-6.485,-5.6798,0.53899,14-Apr-11
+Docetaxel,IST-MES1,mesothelioma,lung,907173,771769,-4.7791,-5.4556,-3.6639,0.94574,28-Jun-10
+Docetaxel,JAR,other,other,907175,771861,-5.4333,-6.1884,-3.0983,1.299,21-Jun-10
+Docetaxel,JEG-3,other,other,907176,805178,-5.8723,-6.0899,-5.6514,1.3036,16-Dec-10
+Docetaxel,JVM-2,lymphoid_neoplasm other,blood,907269,1016427,-2.3314,-4.5649,1.588,0.63923,31-May-11
+Docetaxel,JVM-3,lymphoid_neoplasm other,blood,907270,981970,-6.0616,-6.6293,-5.5676,1.0941,18-Jan-11
+Docetaxel,KALS-1,glioma,CNS,907271,771770,-6.3126,-6.7938,-5.8411,0.90495,13-May-10
+Docetaxel,KARPAS-45,lymphoblastic leukemia,blood,907272,1016441,-5.0332,-5.7522,-3.956,0.72551,31-May-11
+Docetaxel,KARPAS-299,lymphoid_neoplasm other,blood,907273,982006,-2.7209,-4.1274,0.15038,0.89219,25-Feb-11
+Docetaxel,KASUMI-1,AML,blood,907275,1016442,-5.2765,-6.2984,-3.8734,0.51542,31-May-11
+Docetaxel,KE-37,lymphoblastic leukemia,blood,907277,982007,-2.9936,-4.3717,0.053293,0.87367,7-Feb-11
+Docetaxel,KG-1,AML,blood,907278,982008,-2.5527,-4.3448,1.1343,0.93743,25-Feb-11
+Docetaxel,KINGS-1,glioma,CNS,907279,805182,-6.7515,-7.3677,-6.0804,0.53102,20-Sep-10
+Docetaxel,KMOE-2,AML,blood,907280,982010,-3.108,-4.6173,0.91744,1.1028,25-Feb-11
+Docetaxel,KNS-42,glioma,CNS,907282,787993,-5.4931,-5.9191,-5.036,0.6822,2-Aug-10
+Docetaxel,HuP-T3,pancreas,pancreas,907285,788051,-4.531,-5.0336,-3.2931,1.2725,10-Jun-10
+Docetaxel,HuP-T4,pancreas,pancreas,907286,1089927,-4.993,-5.2497,-4.6892,0.9728,1-Mar-12
+Docetaxel,HT55,large_intestine,GI tract,907287,1089923,-4.3884,-5.047,-3.7221,0.73846,10-May-12
+Docetaxel,H-EMC-SS,other,bone,907290,950692,-0.34891,-3.1644,4.0623,1.0383,16-Jun-11
+Docetaxel,GP5d,large_intestine,GI tract,907291,771825,-5.8225,-6.2782,-5.3372,1.2153,28-Jun-10
+Docetaxel,G-402,soft tissue other,soft tissue,907298,771822,-7.2554,-7.7073,-6.7436,0.90475,12-Jul-10
+Docetaxel,G-401,Renal other,kidney,907299,805254,-6.669,-7.2194,-6.1583,0.80536,6-Dec-10
+Docetaxel,KY821,leukemia,blood,907300,1016444,-5.2014,-5.8442,-4.0193,0.95671,10-Jun-11
+Docetaxel,KU812,CML,blood,907311,1016443,-4.4245,-5.3538,-2.9545,0.61111,31-May-11
+Docetaxel,KU-19-19,bladder,bladder,907312,788065,-2.7549,-4.7222,0.10671,0.48949,19-Jul-10
+Docetaxel,KS-1,glioma,CNS,907313,787995,-6.5423,-6.9711,-6.121,0.6225,2-Aug-10
+Docetaxel,KP-N-YN,neuroblastoma,CNS,907314,950680,-3.2505,-4.2655,-1.1568,0.81891,9-May-11
+Docetaxel,KYSE-150,oesophagus,upper aerodigestive,907317,805329,-5.3009,-5.5884,-4.9659,0.90784,8-Nov-10
+Docetaxel,KYSE-180,oesophagus,upper aerodigestive,907318,771874,-6.6046,-6.9805,-6.2334,1.4237,1-Jul-10
+Docetaxel,KYSE-270,oesophagus,upper aerodigestive,907319,805332,-5.8866,-6.2632,-5.5088,1.2911,20-May-10
+Docetaxel,KYSE-450,oesophagus,upper aerodigestive,907320,771879,-6.5488,-7.1423,-5.8453,0.99974,1-Jul-10
+Docetaxel,KYSE-510,oesophagus,upper aerodigestive,907321,771880,-7.0819,-7.5777,-6.636,0.95414,1-Jul-10
+Docetaxel,L-428,Hodgkin lymphoma,blood,907322,982012,-1.2079,-3.5489,3.1336,0.94771,7-Feb-11
+Docetaxel,J-RT3-T3-5,lymphoblastic T cell leukaemia,blood,907391,982004,-6.0525,-6.4426,-5.6831,1.467,1-Feb-11
+Docetaxel,LAMA-84,CML,blood,907783,982013,-4.3216,-5.368,-2.4887,0.69065,18-Jan-11
+Docetaxel,LC-2-ad,lung: NSCLC: adenocarcinoma,lung,907786,787998,-5.6831,-6.0884,-5.25,1.243,10-Jun-10
+Docetaxel,LNCaP-Clone-FGC,prostate,other,907788,771890,-6.8164,-7.4128,-6.232,0.89089,12-Jul-10
+Docetaxel,LoVo,large_intestine,GI tract,907790,788074,-3.8297,-5.262,-0.55502,1.1118,26-Jul-10
+Docetaxel,LS-123,large_intestine,GI tract,907792,868127,-5.4613,-7.647,-2.8861,0.36665,1-Mar-10
+Docetaxel,LS-411N,large_intestine,GI tract,907794,805192,-5.7639,-6.321,-5.1126,0.62816,30-Sep-10
+Docetaxel,LS-513,large_intestine,GI tract,907795,805193,-1.2457,-3.6202,3.1503,0.98862,13-Dec-10
+Docetaxel,LU-99A,lung other,lung,907796,771892,-4.4225,-5.4684,-2.4789,0.91721,14-Jun-10
+Docetaxel,MC116,B cell lymphoma,blood,907799,982016,-1.262,-3.819,3.1833,0.99375,7-Feb-11
+Docetaxel,MC-IXC,neuroblastoma,CNS,908118,788079,-7.6441,-8.3632,-6.9783,1.0376,2-Aug-10
+Docetaxel,MDA-MB-175-VII,breast,breast,908120,1089943,-3.1198,-4.1141,-1.4164,0.89064,30-Apr-12
+Docetaxel,MDA-MB-361,breast,breast,908121,771896,-5.8734,-6.3569,-5.2043,1.6093,21-Jun-10
+Docetaxel,MDA-MB-453,breast,breast,908122,805352,-5.4006,-5.8594,-4.8571,0.71357,8-Nov-10
+Docetaxel,MEL-HO,malignant_melanoma,skin,908124,868128,-3.3754,-4.7842,-0.041342,0.91622,8-Mar-10
+Docetaxel,MEL-JUSO,malignant_melanoma,skin,908125,950698,-5.0528,-5.4158,-4.6209,0.96665,16-Jun-11
+Docetaxel,MEG-01,CML,blood,908126,982017,-4.0531,-5.1943,-0.94485,1.0542,1-Feb-11
+Docetaxel,Mewo,malignant_melanoma,skin,908128,805357,-5.2886,-5.736,-4.6953,1.2737,27-May-10
+Docetaxel,MFE-280,endometrium,uterus,908129,805359,-2.5855,-4.3065,1.2479,0.94135,17-May-10
+Docetaxel,MG-63,osteosarcoma,bone,908131,805364,-6.4974,-7.0203,-5.9819,0.50058,28-Feb-11
+Docetaxel,MHH-ES-1,Ewings sarcoma,bone,908134,805366,-7.2645,-7.6291,-6.8888,0.80457,28-Feb-11
+Docetaxel,MHH-NB-11,neuroblastoma,CNS,908135,771905,-3.076,-4.4054,0.035256,0.95943,1-Jul-10
+Docetaxel,MHH-PREB-1,B cell leukemia,blood,908136,982018,-6.2713,-6.6272,-5.8805,1.2437,8-Feb-11
+Docetaxel,MKN1,stomach,GI tract,908138,771906,-3.6589,-5.2279,1.5873,1.0641,13-May-10
+Docetaxel,MKN28,stomach,GI tract,908139,771907,-5.7534,-6.3329,-5.2944,1.1211,17-May-10
+Docetaxel,ML-2,AML,blood,908141,1016450,-4.5764,-5.7547,-2.6989,0.66716,10-Jun-11
+Docetaxel,MLMA,hairy_cell_leukaemia,blood,908142,805371,-5.6406,-5.8799,-5.401,1.1535,6-Dec-10
+Docetaxel,MN-60,B cell leukemia,blood,908143,981976,-4.2484,-5.1167,-2.6355,0.78089,18-Jan-11
+Docetaxel,MOLT-13,lymphoblastic T cell leukaemia,blood,908146,1016451,-4.5229,-5.4337,-2.9608,0.66815,31-May-11
+Docetaxel,MOLT-16,lymphoblastic T cell leukaemia,blood,908147,982019,-4.7952,-6.5779,0.91523,1.7404,22-Feb-11
+Docetaxel,Mo-T,hairy_cell_leukaemia,blood,908149,981977,-1.0831,-3.5323,3.1932,0.94998,1-Feb-11
+Docetaxel,MPP-89,mesothelioma,lung,908150,805194,-5.1732,-6.1276,-3.7782,0.89566,28-Jun-10
+Docetaxel,MSTO-211H,mesothelioma,lung,908152,788085,-4.4456,-5.0723,-3.0433,1.1149,26-Jul-10
+Docetaxel,MV-4-11,leukemia,blood,908156,982022,-6.3518,-6.6704,-5.9877,1.7726,1-Feb-11
+Docetaxel,NB69,neuroblastoma,CNS,908440,771912,-5.0684,-5.376,-4.7196,0.92174,12-Jul-10
+Docetaxel,NCI-H520,lung: NSCLC: squamous_cell_carcinoma,lung,908443,788102,-5.5927,-6.0097,-5.126,0.72185,19-Jul-10
+Docetaxel,NCI-SNU-1,stomach,GI tract,908444,981950,-6.23,-7.3504,-5.0104,0.61559,22-Feb-11
+Docetaxel,NCI-SNU-5,stomach,GI tract,908445,1016419,-5.2125,-6.3616,-2.3884,0.66934,31-May-11
+Docetaxel,NH-12,neuroblastoma,CNS,908447,805402,-2.7736,-4.3997,0.42962,0.43281,25-Oct-10
+Docetaxel,NKM-1,AML,blood,908448,981982,-3.4519,-5.7631,2.1893,1.2974,1-Feb-11
+Docetaxel,NMC-G1,glioma,CNS,908449,805206,-7.5683,-8.2057,-6.9417,0.58568,20-Sep-10
+Docetaxel,no-11,glioma,CNS,908450,788007,-3.97,-4.9019,-2.496,0.54042,9-Aug-10
+Docetaxel,NOMO-1,AML,blood,908451,981983,-5.2728,-5.6678,-4.7416,1.2046,8-Feb-11
+Docetaxel,no-10,glioma,CNS,908452,805207,-4.8433,-5.1602,-4.4036,0.8809,1-Nov-10
+Docetaxel,NTERA-S-cl-D1,germ_cell_tumour,other,908454,771784,-7.1657,-7.6062,-6.7342,1.0334,20-May-10
+Docetaxel,NUGC-3,stomach,GI tract,908455,788104,-5.7831,-6.4627,-5.0194,0.75212,10-Jun-10
+Docetaxel,NCI-H747,large_intestine,GI tract,908457,805204,-3.5623,-4.6906,-1.5605,0.73361,18-Oct-10
+Docetaxel,NCI-H596,lung: NSCLC: adenocarcinoma,lung,908459,805395,-4.215,-4.981,-2.8943,0.55041,15-Nov-10
+Docetaxel,NCI-H441,lung: NSCLC: adenocarcinoma,lung,908460,771931,-4.4246,-4.872,-3.6531,0.93873,8-Jul-10
+Docetaxel,NCI-N87,stomach,GI tract,908461,771936,-4.5161,-5.1621,-3.3324,0.84716,5-Jul-10
+Docetaxel,NCI-H2452,mesothelioma,lung,908462,805390,-6.1363,-6.5503,-5.7073,0.74207,30-Sep-10
+Docetaxel,NCI-H1793,lung: NSCLC: adenocarcinoma,lung,908463,788092,-2.9773,-4.5957,0.38043,0.87172,3-Jun-10
+Docetaxel,NCI-H358,lung: NSCLC: adenocarcinoma,lung,908465,868130,-4.8819,-5.7816,-3.6798,0.75639,18-Feb-10
+Docetaxel,NCI-H1155,lung: NSCLC: large cell,lung,908467,982023,-3.6982,-4.6211,-1.7192,0.91967,25-Feb-11
+Docetaxel,NCI-H28,mesothelioma,lung,908470,805260,-5.7013,-6.0464,-5.3238,0.89885,30-Sep-10
+Docetaxel,NCI-H1581,lung: NSCLC: large cell,lung,908471,788088,-6.1308,-6.4855,-5.7729,1.2456,10-Jun-10
+Docetaxel,NCI-H1573,lung: NSCLC: adenocarcinoma,lung,908472,788087,-5.1037,-6.1006,-3.7153,0.50716,3-Jun-10
+Docetaxel,NCI-H1666,lung: NSCLC: adenocarcinoma,lung,908473,771918,-5.2881,-5.6239,-4.8673,1.2089,17-May-10
+Docetaxel,NCI-H1703,lung: NSCLC: adenocarcinoma,lung,908474,950701,-6.4578,-6.6317,-6.272,1.3724,20-Jun-11
+Docetaxel,NCI-H1755,lung: NSCLC: adenocarcinoma,lung,908475,805376,-5.0773,-5.4087,-4.6876,0.79629,6-Dec-10
+Docetaxel,NCI-H1993,lung: NSCLC: adenocarcinoma,lung,908476,805380,0.17638,-2.6862,4.5966,1.0669,8-Nov-10
+Docetaxel,NCI-H630,large_intestine,GI tract,908482,805396,-1.225,-3.552,2.7002,0.99132,18-Oct-10
+Docetaxel,ONS-76,medulloblastoma,CNS,909248,950682,-5.7392,-6.3798,-5.009,0.65933,16-Jun-11
+Docetaxel,OS-RC-2,Renal cell carcinoma,kidney,909250,771785,-3.2521,-4.6252,-0.18263,0.98989,28-Jun-10
+Docetaxel,P12-ICHIKAWA,lymphoblastic T cell leukaemia,blood,909251,982031,-7.2019,-7.6546,-6.782,1.2199,8-Feb-11
+Docetaxel,P30-OHK,lymphoblastic leukemia,blood,909252,982032,-2.7859,-4.4684,1.4198,0.97279,22-Feb-11
+Docetaxel,PA-1,ovary,ovary,909255,805412,-7.2827,-7.608,-6.8857,1.3978,9-Aug-10
+Docetaxel,OCUB-M,breast,breast,909256,805211,-5.431,-5.8532,-4.9637,0.73115,1-Nov-10
+Docetaxel,OC-314,ovary,ovary,909257,950681,-5.9662,-6.1579,-5.7884,1.6733,16-Jun-11
+Docetaxel,RCM-1,large_intestine,GI tract,909263,805074,-3.5689,-4.6796,-1.5981,0.44795,4-Apr-11
+Docetaxel,RD,rhabdomyosarcoma,soft tissue,909264,787941,-5.5224,-6.0931,-4.7871,1.1623,3-Jun-10
+Docetaxel,RKO,large_intestine,GI tract,909698,805212,-6.919,-7.3826,-6.4646,1.0215,18-Oct-10
+Docetaxel,RMG-I,ovary,ovary,909699,1089814,-3.6118,-4.3082,-2.423,0.89032,30-Apr-12
+Docetaxel,RPMI-2650,upper_aerodigestive_tract,upper aerodigestive,909700,787943,-6.0086,-6.3328,-5.7074,0.83955,19-Jul-10
+Docetaxel,RS4-11,leukemia,blood,909703,981945,-4.1889,-5.0257,-2.4093,0.96244,25-Jan-11
+Docetaxel,RT-112,bladder,bladder,909704,771712,-6.736,-7.1334,-6.3397,1.3117,28-Jun-10
+Docetaxel,RVH-421,malignant_melanoma,skin,909706,805082,-5.3785,-5.8367,-4.7786,0.63648,8-Nov-10
+Docetaxel,Saos-2,osteosarcoma,bone,909707,787944,-6.3892,-6.7869,-6.0032,0.68292,19-Jul-10
+Docetaxel,SAS,upper_aerodigestive_tract,upper aerodigestive,909708,805083,-6.6183,-7.482,-5.7047,0.62141,1-Nov-10
+Docetaxel,SCC-9,upper_aerodigestive_tract,upper aerodigestive,909709,805087,-6.6322,-6.8509,-6.4212,1.3058,30-Sep-10
+Docetaxel,SCH,stomach,GI tract,909711,805089,-4.8063,-5.337,-4.0668,0.58673,1-Nov-10
+Docetaxel,SF126,glioma,CNS,909712,788009,-5.7162,-5.9608,-5.476,1.2599,2-Aug-10
+Docetaxel,SH-4,malignant_melanoma,skin,909713,950683,-5.737,-6.3337,-5.0854,0.61944,14-Apr-11
+Docetaxel,SJSA-1,other,bone,909717,788012,-7.3936,-8.0213,-6.7851,0.5639,19-Jul-10
+Docetaxel,SK-HEP-1,liver,other,909719,805097,-6.0569,-6.4226,-5.6688,1.0687,20-Sep-10
+Docetaxel,SK-LU-1,lung: NSCLC: adenocarcinoma,lung,909721,787948,-4.3245,-6.2076,-0.55501,0.93852,10-Jun-10
+Docetaxel,SK-MEL-1,malignant_melanoma,skin,909723,981947,-2.8473,-4.5846,1.034,0.81372,18-Mar-11
+Docetaxel,SK-MEL-3,malignant_melanoma,skin,909724,950671,-2.8493,-4.2992,-0.21211,0.58798,9-May-11
+Docetaxel,SK-MEL-24,malignant_melanoma,skin,909725,981989,-0.95758,-3.5956,3.7047,0.95032,18-Mar-11
+Docetaxel,SK-MEL-30,malignant_melanoma,skin,909726,785902,-4.9168,-5.9828,-3.0534,0.58601,22-Apr-10
+Docetaxel,SK-MES-1,lung: NSCLC: squamous_cell_carcinoma,lung,909728,805100,-6.0639,-6.66,-5.4689,0.68069,4-Oct-10
+Docetaxel,SK-NEP-1,Renal other (putative Ewing's),kidney,909730,981949,-6.343,-6.8462,-5.8955,0.99134,18-Jan-11
+Docetaxel,SK-PN-DW,Ewings sarcoma,bone,909731,805215,-6.2446,-6.7852,-5.6861,1.0179,22-Nov-10
+Docetaxel,SK-UT-1,soft tissue other,soft tissue,909732,785907,-6.0935,-6.3628,-5.8256,1.5173,19-Apr-10
+Docetaxel,SNU-387,liver,other,909736,1089831,-5.949,-6.3156,-5.5866,0.9229,10-May-12
+Docetaxel,SNU-423,liver,other,909737,1089833,-4.7596,-5.4277,-3.8667,0.52161,14-May-12
+Docetaxel,SNU-449,liver,other,909738,1089834,-0.31816,-2.9682,4.3339,1.0369,14-May-12
+Docetaxel,SNU-C2B,large_intestine,GI tract,909740,805217,-3.4857,-4.8784,0.76792,1.094,21-Jun-10
+Docetaxel,SW13,other,other,909744,771723,-6.3845,-6.8612,-5.9209,0.96299,13-May-10
+Docetaxel,SW1088,glioma,CNS,909745,787952,-5.8265,-6.4352,-5.1751,0.75443,7-Jun-10
+Docetaxel,SW1116,large_intestine,GI tract,909746,771722,-1.5551,-4.9147,3.3225,0.94391,28-Jun-10
+Docetaxel,SW1417,large_intestine,GI tract,909747,771724,-5.8936,-6.8289,-4.7677,0.29189,5-Jul-10
+Docetaxel,SW1463,large_intestine,GI tract,909748,771725,-3.4002,-4.9057,-0.12727,0.81072,28-Jun-10
+Docetaxel,SW1710,bladder,bladder,909749,771730,-7.6713,-8.0938,-7.3169,0.74274,8-Jul-10
+Docetaxel,SW1783,glioma,CNS,909750,787953,-5.1673,-5.6841,-4.4789,0.61197,6-Sep-10
+Docetaxel,SW48,large_intestine,GI tract,909751,805109,-6.8982,-7.1097,-6.696,1.3833,30-Sep-10
+Docetaxel,SW626,ovary,ovary,909753,1089838,-5.0773,-5.3542,-4.7477,0.75839,30-Apr-12
+Docetaxel,SW684,soft tissue other,soft tissue,909754,805218,-4.232,-5.5231,-2.3777,0.38461,4-Oct-10
+Docetaxel,SW837,large_intestine,GI tract,909755,771732,-2.4838,-4.4079,1.6634,1.0318,13-May-10
+Docetaxel,SW872,soft tissue other,soft tissue,909756,771793,-3.9808,-4.9989,-1.3546,1.0499,27-May-10
+Docetaxel,SW948,large_intestine,GI tract,909757,805111,-2.8141,-4.1939,1.1928,1.0675,6-Dec-10
+Docetaxel,SW962,vulva,uterus,909758,788016,-5.8331,-6.2345,-5.3922,0.94332,2-Aug-10
+Docetaxel,SW982,soft tissue other,soft tissue,909759,771794,-6.6687,-7.0227,-6.3453,0.80409,8-Jul-10
+Docetaxel,T84,large_intestine,GI tract,909761,805112,-2.2116,-3.9145,0.95124,0.75031,1-Nov-10
+Docetaxel,TGBC1TKB,biliary_tract,GI tract,909769,788018,-4.6998,-5.3764,-3.838,0.77651,6-Sep-10
+Docetaxel,TGBC11TKB,stomach,GI tract,909770,805227,-5.3623,-5.6334,-5.081,1.1409,6-Dec-10
+Docetaxel,TYK-nu,ovary,ovary,909774,1089846,-6.0643,-6.3102,-5.7858,0.99372,26-Apr-12
+Docetaxel,U-2-OS,osteosarcoma,bone,909776,805119,-6.3467,-6.7884,-5.9294,1.0248,10-May-10
+Docetaxel,UACC-893,breast,breast,909778,771742,-2.9074,-4.6052,0.95408,0.84016,13-May-10
+Docetaxel,UMC-11,lung: NSCLC: carcinoid,lung,909779,771744,-4.3558,-5.0646,-3.0798,1.115,20-May-10
+Docetaxel,VM-CUB-1,bladder,bladder,909780,805127,-6.8611,-7.8365,-6.1503,1.1575,7-Jun-10
+Docetaxel,VMRC-RCZ,Renal cell carcinoma,kidney,909781,950675,-5.984,-6.5988,-5.2499,0.45505,14-Apr-11
+Docetaxel,WM-115,malignant_melanoma,skin,909784,805131,-5.0725,-5.7583,-4.2376,0.60961,4-Apr-11
+Docetaxel,YAPC,pancreas,pancreas,909904,805138,-4.3928,-4.972,-3.5315,0.57252,15-Nov-10
+Docetaxel,YH-13,glioma,CNS,909905,1089874,-7.1424,-7.3503,-6.9122,0.94756,23-Feb-12
+Docetaxel,RCC10RGB,Renal cell carcinoma,kidney,909974,771786,-0.23341,-2.93,4.1131,1.0435,8-Jul-10
+Docetaxel,KURAMOCHI,ovary,ovary,909975,805184,-2.6489,-4.2721,0.53974,0.46007,1-Nov-10
+Docetaxel,KM-H2,Hodgkin lymphoma,blood,909976,982009,-1.8965,-3.8483,1.952,1.0111,1-Feb-11
+Docetaxel,HuO-3N1,osteosarcoma,bone,909977,982003,-8.1035,-9.5322,-6.799,0.72366,18-Mar-11
+Docetaxel,OE19,oesophagus,upper aerodigestive,910079,788106,-5.1866,-5.9477,-4.3473,0.56381,19-Jul-10
+Docetaxel,Ramos-2G6-4C10,Burkitt lymphoma,blood,910401,981985,-2.9824,-5.0846,1.3031,0.9936,18-Jan-11
+Docetaxel,RPMI-8866,CML,blood,910544,981988,-5.8734,-6.1425,-5.6259,1.543,7-Feb-11
+Docetaxel,QIMR-WIL,AML,blood,910545,981984,-5.4306,-5.9843,-4.5527,1.0523,25-Jan-11
+Docetaxel,PSN1,pancreas,pancreas,910546,787940,-7.4499,-7.8466,-7.064,0.89033,9-Aug-10
+Docetaxel,OAW-42,ovary,ovary,910548,1089966,-3.4966,-4.294,-2.1916,0.60495,16-Apr-12
+Docetaxel,OE33,oesophagus,upper aerodigestive,910549,788107,-4.3427,-5.4451,-2.9443,0.75845,26-Jul-10
+Docetaxel,CW-2,large_intestine,GI tract,910554,805148,-2.5469,-4.0547,0.91241,1.0243,18-Oct-10
+Docetaxel,CGTH-W-1,thyroid,thyroid,910568,787977,-7.52,-8.2998,-6.7763,0.92897,2-Aug-10
+Docetaxel,COLO-320-HSR,large_intestine,GI tract,910569,981960,-0.82153,-3.2251,3.0918,0.96732,7-Feb-11
+Docetaxel,ATN-1,lymphoblastic T cell leukaemia,blood,910687,981956,-1.7463,-4.7341,2.8661,1.0321,21-Feb-11
+Docetaxel,COLO-678,large_intestine,GI tract,910689,868115,-0.99419,-3.8804,3.6513,0.96313,22-Mar-10
+Docetaxel,COLO-684,endometrium,uterus,910691,981993,-3.1955,-4.6422,0.23525,0.8338,1-Feb-11
+Docetaxel,COLO-668,lung: small_cell_carcinoma,lung,910692,805146,-3.2476,-4.3671,-0.57799,1.0073,4-Oct-10
+Docetaxel,LN-405,glioma,CNS,910694,805341,-5.3352,-5.8547,-4.696,0.80916,12-Jul-10
+Docetaxel,TGBC24TKB,biliary_tract,GI tract,910695,771798,-4.8527,-5.6733,-3.422,0.98318,14-Jun-10
+Docetaxel,TI-73,osteosarcoma,bone,910696,805228,-6.5411,-6.8347,-6.2667,1.4488,1-Nov-10
+Docetaxel,A388,other,other,910697,805140,-5.9325,-6.2936,-5.569,0.80236,8-Nov-10
+Docetaxel,BFTC-909,Renal other,kidney,910698,771911,-6.0958,-6.7296,-5.413,0.88997,20-May-10
+Docetaxel,C2BBe1,large_intestine,GI tract,910700,771955,-6.3108,-6.8891,-5.7731,0.99462,14-Jun-10
+Docetaxel,SCC-25,upper_aerodigestive_tract,upper aerodigestive,910701,787946,-7.2935,-7.6538,-6.9399,0.70509,19-Jul-10
+Docetaxel,AsPC-1,pancreas,pancreas,910702,788066,-4.987,-5.5171,-4.0839,1.213,7-Jun-10
+Docetaxel,AU565,breast,breast,910704,805336,-6.3156,-6.6062,-5.8632,1.3785,5-Jul-10
+Docetaxel,BALL-1,B cell leukemia,blood,910705,982015,-2.7069,-4.2327,0.094038,0.72584,18-Mar-11
+Docetaxel,BV-173,CML,blood,910710,1016420,-5.24,-6.2934,-3.8899,0.579,31-May-11
+Docetaxel,IA-LM,lung: NSCLC: large cell,lung,910779,1089863,-4.32,-4.7548,-3.6892,0.81819,14-May-12
+Docetaxel,AN3-CA,endometrium,uterus,910781,788060,-5.2846,-5.7757,-4.6471,1.0014,3-Jun-10
+Docetaxel,A204,rhabdomyosarcoma,soft tissue,910784,788037,-4.6736,-5.582,-3.0302,0.86341,7-Jun-10
+Docetaxel,NY,osteosarcoma,bone,910849,982028,-0.068794,-3.1034,4.5452,1.03,18-Mar-11
+Docetaxel,C3A,liver,other,910850,805075,-3.5678,-4.2982,-2.0767,1.0115,22-Nov-10
+Docetaxel,A427,lung: NOS,lung,910851,1089914,-6.5126,-6.6446,-6.3727,1.3862,23-Feb-12
+Docetaxel,CAL-85-1,breast,breast,910852,868103,-0.097614,-3.1141,4.2522,1.0176,22-Mar-10
+Docetaxel,CHL-1,malignant_melanoma,skin,910853,805216,-6.9503,-7.395,-6.551,0.84369,4-Apr-11
+Docetaxel,NCI-H1651,lung: NSCLC: adenocarcinoma,lung,910900,805375,-5.2214,-5.4849,-4.9343,1.2082,4-Oct-10
+Docetaxel,SCC-4,upper_aerodigestive_tract,upper aerodigestive,910904,805086,-7.2098,-7.6676,-6.7286,0.81881,1-Nov-10
+Docetaxel,SW1990,pancreas,pancreas,910907,787954,-4.5588,-5.3843,-3.2784,1.0145,10-Jun-10
+Docetaxel,SCC-15,upper_aerodigestive_tract,upper aerodigestive,910911,771715,-4.977,-5.6608,-4.0781,0.71623,21-Jun-10
+Docetaxel,Capan-2,pancreas,pancreas,910915,805151,-2.9196,-4.2383,0.18936,0.90645,6-Dec-10

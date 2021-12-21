@@ -1,0 +1,353 @@
+"Drug Name","Cell Line Name",Tissue,"Cancer Type","COSMIC ID","IC Results ID","IC 50","IC 50 Low","IC 50 High",Beta,Timestamp
+Bortezomib,BC-3,"B cell lymphoma",blood,910918,1131350,-5.0189,-6.0704,-2.3507,1.6037,02-MAR-12
+Bortezomib,BC-1,"B cell lymphoma",blood,910919,1012645,-6.0692,-6.2088,-5.7272,1.7268,21-JUL-11
+Bortezomib,A101D,malignant_melanoma,skin,910921,969219,-8.3978,-8.7201,-8.0429,1.0838,08-SEP-10
+Bortezomib,SCC-3,"B cell lymphoma",blood,910930,1158865,-6.0446,-6.6354,-5.3402,2.2043,14-OCT-11
+Bortezomib,AM-38,glioma,CNS,910933,869044,-2.4295,-3.3882,-.68546,.96089,27-AUG-10
+Bortezomib,A4-Fuk,malignant_melanoma,skin,910934,1131250,-7.3812,-7.7508,-6.6581,2.1607,24-FEB-12
+Bortezomib,A3-KAW,stomach,"GI tract",910935,869163,-6.6582,-7.1967,-6.359,2.5204,06-JAN-11
+Bortezomib,COR-L279,"lung: small_cell_carcinoma",lung,910937,1012639,-1.3776,-3.9336,3.0218,.98677,15-AUG-11
+Bortezomib,NEC8,germ_cell_tumour,other,910942,869246,-5.6988,-6.6519,-4.5024,1.1481,24-JUN-10
+Bortezomib,CAS-1,glioma,CNS,910943,969231,-6.5957,-6.9872,-6.2173,1.1012,08-SEP-10
+Bortezomib,ALL-PO,"lymphoblastic leukemia",blood,910944,869043,-2.5555,-4.8539,.82169,.58476,22-NOV-10
+Bortezomib,OCI-AML2,AML,blood,910947,869248,-3.5169,-4.7786,-1.494,1.0081,28-OCT-10
+Bortezomib,MFM-223,breast,breast,910948,1131355,-4.0224,-4.7442,-3.7866,1.3627,13-JAN-12
+Bortezomib,LS-1034,large_intestine,"GI tract",917486,969298,-3.6591,-4.3251,-2.3367,.64555,19-AUG-10
+Bortezomib,CAL-148,breast,breast,924106,1012637,-2.503,-3.3465,-.79381,.88064,15-AUG-11
+Bortezomib,HDLM-2,"Hodgkin lymphoma",blood,924110,1012642,-3.7075,-5.297,-.096869,1.3848,15-AUG-11
+Bortezomib,KGN,ovary,ovary,924186,969279,-6.1411,-6.7644,-5.583,1.2414,02-JUL-10
+Bortezomib,KNS-81-FD,glioma,CNS,924188,969285,-5.9982,-6.2433,-5.7566,1.3805,25-AUG-10
+Bortezomib,K5,thyroid,thyroid,924238,969275,-6.6614,-6.857,-6.4718,1.4995,23-JUL-10
+Bortezomib,L-363,Myeloma,blood,924239,869194,-4.8664,-5.6793,-3.0477,1.4447,28-OCT-10
+Bortezomib,NCI-H719,"lung: small_cell_carcinoma",lung,924242,1131392,-3.3723,-3.7512,-2.7213,1.0264,16-MAR-12
+Bortezomib,SW954,vulva,uterus,924247,969349,-5.8439,-6.5048,-5.3188,1.2911,23-JUL-10
+Bortezomib,TE-441-T,rhabdomyosarcoma,"soft tissue",924248,869124,.92493,-.96263,3.5047,.26228,06-AUG-10
+Bortezomib,MMAC-SF,malignant_melanoma,skin,925339,969306,-8.439,-9.5514,-7.7789,1.0188,19-JUL-10
+Bortezomib,MFH-ino,"soft tissue other","soft tissue",925343,969305,-7.7216,-8.1635,-7.432,1.5712,16-JUL-10
+Bortezomib,NOS-1,osteosarcoma,bone,925345,969322,-6.1602,-6.2885,-6.04,1.9194,24-AUG-10
+Bortezomib,RL95-2,endometrium,uterus,930082,832094,-5.5746,-6.5844,-2.2297,1.5207,08-SEP-10
+Bortezomib,TE-9,oesophagus,"upper aerodigestive",946353,969359,-8.6099,-9.2905,-8.1501,1.7917,02-SEP-10
+Bortezomib,TE-6,oesophagus,"upper aerodigestive",946355,969356,-3.9078,-4.5257,-2.984,.70319,12-JUL-10
+Bortezomib,TE-12,oesophagus,"upper aerodigestive",946356,969353,-5.4609,-5.7173,-5.2019,1.5386,02-JUL-10
+Bortezomib,TC-YIK,cervix,uterus,946357,869123,-.24716,-2.2144,2.8106,.84486,06-AUG-10
+Bortezomib,YT,"lymphoid_neoplasm other",blood,946358,869042,-2.7838,-3.3742,-1.9759,.7006,28-OCT-10
+Bortezomib,BT-474,breast,breast,946359,1131395,-2.7334,-3.5762,-1.9324,.73653,09-FEB-12
+Bortezomib,KP-N-YS,neuroblastoma,CNS,946363,869088,-2.5674,-3.3427,-1.4945,.55902,29-JUL-10
+Bortezomib,D-247MG,glioma,CNS,946367,969237,-7.7911,-8.162,-7.4001,1.028,19-AUG-10
+Bortezomib,D-263MG,glioma,CNS,946368,969238,-7.1223,-7.5663,-6.8535,2.0525,19-AUG-10
+Bortezomib,D-336MG,glioma,CNS,946369,969239,-7.3278,-8.8827,-6.7957,1.3668,19-AUG-10
+Bortezomib,D-392MG,glioma,CNS,946370,969240,-6.8099,-7.0515,-6.5862,1.3896,19-AUG-10
+Bortezomib,D-502MG,glioma,CNS,946373,969241,-5.0554,-5.4411,-4.6753,.7164,19-AUG-10
+Bortezomib,CTB-1,"B cell lymphoma",blood,949088,1131252,-4.6384,-5.5171,-4.2471,1.1461,17-FEB-12
+Bortezomib,HAL-01,"lymphoblastic leukemia",blood,949153,1131257,-6.7409,-7.0753,-6.5511,2.3374,24-FEB-12
+Bortezomib,OMC-1,cervix,uterus,949154,969325,-5.4767,-5.7759,-5.1407,1.0466,12-JUL-10
+Bortezomib,ES8,"Ewings sarcoma",bone,949155,969252,-7.8244,-8.4078,-7.3876,1.3599,02-SEP-10
+Bortezomib,ES4,"Ewings sarcoma",bone,949156,969249,-6.1373,-6.2945,-5.9599,1.6631,19-AUG-10
+Bortezomib,ES6,"Ewings sarcoma",bone,949157,969250,-13.073,-15.676,-11.221,.65599,24-AUG-10
+Bortezomib,ES1,"Ewings sarcoma",bone,949158,969247,-7.7523,-8.275,-7.3863,1.2997,07-JUL-10
+Bortezomib,EW-3,"Ewings sarcoma",bone,949161,869072,-3.487,-3.8264,-2.7941,1.0937,20-AUG-10
+Bortezomib,EW-12,"Ewings sarcoma",bone,949162,869066,-3.7647,-4.1858,-2.8717,1.2594,15-JUL-10
+Bortezomib,EW-1,"Ewings sarcoma",bone,949163,869064,-5.2376,-5.3435,-5.1418,2.0747,06-AUG-10
+Bortezomib,EW-18,"Ewings sarcoma",bone,949164,869069,-4.0195,-4.3119,-3.7496,1.075,01-JUL-10
+Bortezomib,EW-16,"Ewings sarcoma",bone,949165,969254,-5.8956,-6.1661,-5.5964,1.4169,26-JUL-10
+Bortezomib,EW-13,"Ewings sarcoma",bone,949166,1131255,-2.5541,-3.3374,-1.1516,1.0195,16-MAR-12
+Bortezomib,EW-22,"Ewings sarcoma",bone,949167,869070,-1.3327,-2.8699,2.0294,.92163,06-AUG-10
+Bortezomib,EW-24,"Ewings sarcoma",bone,949168,1131256,-6.1776,-6.3098,-6.0263,1.9099,09-FEB-12
+Bortezomib,LAN-6,neuroblastoma,CNS,949170,1131263,-6.1879,-6.2609,-6.1122,1.7654,24-FEB-12
+Bortezomib,NB10,neuroblastoma,CNS,949171,1131277,-6.0647,-6.2602,-5.8725,1.3562,16-MAR-12
+Bortezomib,NB12,neuroblastoma,CNS,949172,969314,-6.4628,-7.0086,-6.1115,1.6018,24-AUG-10
+Bortezomib,NB6,neuroblastoma,CNS,949173,1131281,-4.7705,-5.9472,-2.3943,1.4758,16-MAR-12
+Bortezomib,NB7,neuroblastoma,CNS,949174,869109,-4.1405,-4.7353,-3.0513,.99825,27-AUG-10
+Bortezomib,NB17,neuroblastoma,CNS,949175,1131279,-6.1968,-6.5962,-5.7414,1.9279,16-MAR-12
+Bortezomib,NB5,neuroblastoma,CNS,949176,1131280,-6.0859,-6.1628,-5.9592,2.1946,16-MAR-12
+Bortezomib,NB13,neuroblastoma,CNS,949177,1131278,-6.2136,-6.6058,-5.7302,1.9528,16-MAR-12
+Bortezomib,NB14,neuroblastoma,CNS,949178,869105,-4.0183,-5.0347,-1.5744,1.2057,13-AUG-10
+Bortezomib,NB1,neuroblastoma,CNS,949179,1158881,-4.9797,-5.3637,-4.6255,1.5699,09-SEP-11
+Bortezomib,RH-1,"rhabdomyosarcoma (putative Ewing's)","soft tissue",971773,868995,-2.3041,-3.3644,-1.1248,.65981,19-NOV-10
+Bortezomib,MZ2-MEL,malignant_melanoma,skin,971777,969310,-7.8072,-8.1344,-7.5158,1.6579,16-JUL-10
+Bortezomib,MC-CAR,Myeloma,blood,683665,869203,-2.9657,-4.0501,1.2644,1.4782,22-NOV-10
+Bortezomib,ES3,"Ewings sarcoma",bone,684055,869060,-3.347,-3.7791,-2.5951,.73433,28-JAN-11
+Bortezomib,ES5,"Ewings sarcoma",bone,684057,869061,-4.5681,-4.7545,-4.0457,.9444,19-NOV-10
+Bortezomib,ES7,"Ewings sarcoma",bone,684059,969251,-7.174,-7.5531,-6.8454,1.5916,26-JUL-10
+Bortezomib,EW-11,"Ewings sarcoma",bone,684062,869065,-2.5443,-3.2632,-1.4325,.66688,13-AUG-10
+Bortezomib,NCI-H1395,"lung: NSCLC: adenocarcinoma",lung,684681,869223,-1.56,-3.7547,1.7536,.61909,06-AUG-10
+Bortezomib,COLO-829,malignant_melanoma,skin,687448,969234,-7.3962,-7.7544,-7.0386,1.4319,19-AUG-10
+Bortezomib,8-MG-BA,glioma,CNS,687562,969217,-8.2949,-8.7345,-7.3355,1.7668,19-AUG-10
+Bortezomib,GB-1,glioma,CNS,687568,969256,-6.3155,-6.6526,-6.0457,1.6357,19-AUG-10
+Bortezomib,U-87-MG,glioma,CNS,687590,869035,-4.0886,-4.3973,-3.4271,1.6452,10-SEP-10
+Bortezomib,NCI-H720,"lung: NSCLC: carcinoid",lung,687600,869242,-2.9739,-4.7204,-.025799,1.0174,06-AUG-10
+Bortezomib,NCI-H1648,"lung: NSCLC: adenocarcinoma",lung,687799,969365,-5.4907,-5.8858,-5.2257,1.845,19-AUG-10
+Bortezomib,NCI-H1650,"lung: NSCLC: adenocarcinoma",lung,687800,869226,-2.1603,-2.973,-.84703,1.024,22-NOV-10
+Bortezomib,NCI-H1770,"lung: NSCLC: NOS",lung,687804,869228,-2.278,-3.1748,-.57498,1.0716,29-JUL-10
+Bortezomib,NCI-H1838,"lung: NSCLC: adenocarcinoma",lung,687807,869229,1.4318,-1.3255,5.447,1.1079,10-DEC-10
+Bortezomib,NCI-H2126,"lung: NSCLC: adenocarcinoma",lung,687814,969316,-6.3209,-6.6845,-5.8832,.8778,19-JUL-10
+Bortezomib,DMS-114,"lung: small_cell_carcinoma",lung,687983,1131302,-4.6436,-4.7096,-4.5725,1.6849,24-FEB-12
+Bortezomib,DMS-153,"lung: small_cell_carcinoma",lung,687984,869138,-.29191,-2.6884,3.5686,.7778,10-SEP-10
+Bortezomib,NCI-H1092,"lung: small_cell_carcinoma",lung,687997,1131377,-6.3183,-6.4223,-6.0916,1.9351,27-JAN-12
+Bortezomib,NCI-H1417,"lung: small_cell_carcinoma",lung,688001,869224,-5.2014,-5.2743,-5.1356,2.5956,10-FEB-11
+Bortezomib,NCI-H1694,"lung: small_cell_carcinoma",lung,688006,869227,-4.8828,-5.126,-4.7019,1.9492,28-JAN-11
+Bortezomib,NCI-H187,"lung: small_cell_carcinoma",lung,688007,869231,-1.248,-3.1058,2.3262,.9461,10-FEB-11
+Bortezomib,NCI-H1963,"lung: small_cell_carcinoma",lung,688010,1158887,-.95142,-4.6006,3.7287,1.011,20-OCT-11
+Bortezomib,NCI-H209,"lung: small_cell_carcinoma",lung,688013,1158888,-1.627,-4.4603,3.6049,1.3135,09-SEP-11
+Bortezomib,NCI-H2141,"lung: small_cell_carcinoma",lung,688014,869233,-5.51,-5.7659,-5.1381,2.0557,28-JAN-11
+Bortezomib,NCI-H2171,"lung: small_cell_carcinoma",lung,688015,869234,-1.2416,-2.6946,.87232,.4428,29-JUL-10
+Bortezomib,NCI-H2227,"lung: small_cell_carcinoma",lung,688018,1131389,-3.2067,-4.955,.28142,1.1116,02-MAR-12
+Bortezomib,NCI-H345,"lung: small_cell_carcinoma",lung,688021,869238,-4.9339,-5.0828,-4.782,1.679,10-FEB-11
+Bortezomib,NCI-H446,"lung: small_cell_carcinoma",lung,688023,869239,-3.8545,-4.9866,-1.8218,1.0326,10-FEB-11
+Bortezomib,NCI-H526,"lung: small_cell_carcinoma",lung,688025,869241,-3.4252,-5.7615,1.7046,1.3331,06-JAN-11
+Bortezomib,NCI-H64,"lung: small_cell_carcinoma",lung,688026,1131284,-6.0166,-6.2318,-5.7635,1.9883,02-MAR-12
+Bortezomib,NCI-H69,"lung: small_cell_carcinoma",lung,688027,1131391,-6.4732,-7.0793,-5.5362,1.7134,20-JAN-12
+Bortezomib,NCI-H82,"lung: small_cell_carcinoma",lung,688031,869243,-3.7715,-5.9257,-.72046,.99076,06-JAN-11
+Bortezomib,SK-N-DZ,neuroblastoma,CNS,688086,1012635,-5.7262,-5.8197,-5.6423,2.1235,21-JUL-11
+Bortezomib,SK-N-FI,neuroblastoma,CNS,688087,1012636,-2.5232,-4.3245,2.0642,1.2497,15-AUG-11
+Bortezomib,VA-ES-BJ,"soft tissue other","soft tissue",688121,969363,-6.8241,-7.1882,-6.2548,1.3916,02-JUL-10
+Bortezomib,LU-139,"lung: small_cell_carcinoma",lung,713878,1131270,-5.2734,-5.4696,-5.0521,1.7417,17-FEB-12
+Bortezomib,SBC-1,"lung: small_cell_carcinoma",lung,713885,869000,-5.2969,-5.9377,-3.9117,1.5291,04-MAR-11
+Bortezomib,NCI-H1299,"lung: NSCLC: large cell",lung,724831,869222,-1.3405,-3.1206,1.4696,.65873,21-OCT-10
+Bortezomib,Calu-6,"lung: NSCLC: adenocarcinoma",lung,724859,969229,-6.6562,-6.97,-6.3756,1.553,23-JUL-10
+Bortezomib,LU-65,"lung other",lung,724863,869201,-5.1429,-5.3931,-4.8963,.90916,04-MAR-11
+Bortezomib,NCI-H1355,"lung: NSCLC: adenocarcinoma",lung,724866,969315,-7.0184,-7.8412,-6.4832,1.6089,24-AUG-10
+Bortezomib,SHP-77,"lung: small_cell_carcinoma",lung,724872,869004,-3.2694,-5.051,-.95454,.4796,04-MAR-11
+Bortezomib,TE-5,oesophagus,"upper aerodigestive",735784,969355,-7.0531,-7.7506,-5.9155,1.4241,02-JUL-10
+Bortezomib,HCC1187,breast,breast,749711,869153,-5.6449,-6.5807,-5.3026,1.7712,13-AUG-10
+Bortezomib,HCC2157,breast,breast,749715,869156,-3.7666,-6.2859,1.8934,1.5041,22-NOV-10
+Bortezomib,HCC2218,breast,breast,749716,869158,-3.9374,-4.133,-3.7136,.88936,28-JAN-11
+Bortezomib,BB30-HNC,upper_aerodigestive_tract,"upper aerodigestive",753531,969224,-8.0005,-8.279,-7.6936,1.8916,19-AUG-10
+Bortezomib,BB49-HNC,upper_aerodigestive_tract,"upper aerodigestive",753532,969225,-7.3362,-7.6214,-7.0361,1.0642,26-JUL-10
+Bortezomib,BB65-RCC,"Renal cell carcinoma",kidney,753533,969227,-8.098,-8.4991,-7.6834,1.3767,08-SEP-10
+Bortezomib,CP66-MEL,malignant_melanoma,skin,753546,969235,-7.6559,-7.9575,-7.4214,1.8776,19-AUG-10
+Bortezomib,CPC-N,"lung: small_cell_carcinoma",lung,753547,1158872,-.9069,-3.13,2.9375,.97515,20-OCT-11
+Bortezomib,CTV-1,AML,blood,753548,869131,-5.8784,-6.4966,-2.4653,1.6354,14-OCT-10
+Bortezomib,D-542MG,glioma,CNS,753549,969242,-8.02,-8.6035,-7.4962,.98964,19-AUG-10
+Bortezomib,DMS-79,"lung: small_cell_carcinoma",lung,753551,869139,-2.9817,-3.542,-1.1196,1.2029,23-SEP-10
+Bortezomib,DSH1,bladder,bladder,753552,969244,-7.6407,-8.0069,-7.2455,1.3104,26-JUL-10
+Bortezomib,EC-GI-10,oesophagus,"upper aerodigestive",753555,1131254,-3.72,-4.5011,-2.9972,1.2374,16-MAR-12
+Bortezomib,IM-9,Myeloma,blood,753563,869171,-3.7491,-3.9811,-3.4426,.62638,10-DEC-10
+Bortezomib,IST-SL1,"lung: small_cell_carcinoma",lung,753564,869079,-5.3648,-5.7817,-4.9825,1.4271,28-JAN-11
+Bortezomib,IST-SL2,"lung: small_cell_carcinoma",lung,753565,1131258,-6.6382,-6.7361,-6.5064,2.4245,24-FEB-12
+Bortezomib,KMS-12-PE,Myeloma,blood,753568,869190,-2.5739,-3.3155,-1.578,.45287,16-DEC-10
+Bortezomib,LB1047-RCC,"Renal cell carcinoma",kidney,753577,969289,-5.9656,-6.1991,-5.7202,1.3926,19-AUG-10
+Bortezomib,LB2241-RCC,"Renal cell carcinoma",kidney,753578,969290,-7.1254,-7.3792,-6.8932,1.6625,19-AUG-10
+Bortezomib,LB2518-MEL,malignant_melanoma,skin,753579,969291,-7.7638,-8.4576,-6.8973,1.8638,19-AUG-10
+Bortezomib,LB373-MEL-D,malignant_melanoma,skin,753581,969293,-7.2645,-7.5605,-6.8843,1.3327,25-AUG-10
+Bortezomib,LB771-HNC,upper_aerodigestive_tract,"upper aerodigestive",753583,969294,-7.6534,-7.8876,-7.4337,1.1279,19-AUG-10
+Bortezomib,LB831-BLC,bladder,bladder,753584,969295,-7.3533,-7.8345,-6.9432,1.3151,19-AUG-10
+Bortezomib,LB996-RCC,"Renal cell carcinoma",kidney,753585,969296,-5.6836,-5.7857,-5.5924,1.9996,19-AUG-10
+Bortezomib,LU-134-A,"lung: small_cell_carcinoma",lung,753588,1131269,-4.9083,-5.818,-2.9028,1.5689,20-JAN-12
+Bortezomib,LU-165,"lung: small_cell_carcinoma",lung,753589,1131271,-3.6222,-4.8873,-2.5946,.83429,27-JAN-12
+Bortezomib,LXF-289,"lung: NSCLC: adenocarcinoma",lung,753592,969303,-8.2214,-8.6425,-7.8785,1.8823,16-JUL-10
+Bortezomib,MS-1,"lung: small_cell_carcinoma",lung,753594,869217,-.2752,-2.35,3.2563,.89924,10-DEC-10
+Bortezomib,MZ1-PC,pancreas,pancreas,753595,969308,-5.6448,-6.0172,-5.3181,1.3811,24-AUG-10
+Bortezomib,MZ7-mel,malignant_melanoma,skin,753596,969312,-6.8184,-7.1543,-6.4774,1.2458,16-JUL-10
+Bortezomib,NCI-H128,"lung: small_cell_carcinoma",lung,753597,869221,-2.5933,-3.2091,-1.5056,.5496,21-OCT-10
+Bortezomib,NCI-H1304,"lung: small_cell_carcinoma",lung,753599,1158883,-1.7766,-4.7931,3.2479,1.2109,09-SEP-11
+Bortezomib,NCI-H1882,"lung: small_cell_carcinoma",lung,753602,1131382,-6.7233,-6.8505,-6.5772,1.6603,20-JAN-12
+Bortezomib,NCI-H510A,"lung: small_cell_carcinoma",lung,753605,1158889,-1.6854,-3.4274,2.3968,.99503,20-OCT-11
+Bortezomib,SCLC-21H,"lung: small_cell_carcinoma",lung,753611,1158867,-1.8363,-3.6133,2.6183,1.1234,09-SEP-11
+Bortezomib,SK-MM-2,Myeloma,blood,753612,1131290,-6.8199,-7.7185,-5.0544,1.8505,30-JAN-12
+Bortezomib,TE-15,oesophagus,"upper aerodigestive",753614,969354,-5.6747,-5.9765,-5.331,1.1259,19-JUL-10
+Bortezomib,U-266,Myeloma,blood,753615,869031,-6.3425,-6.6835,-4.5233,1.5882,14-OCT-10
+Bortezomib,SIMA,neuroblastoma,CNS,753620,869007,-3.7561,-4.2736,-3.2981,.86137,28-JAN-11
+Bortezomib,TE-1,oesophagus,"upper aerodigestive",753621,969351,-6.8746,-7.7971,-5.8254,1.3987,02-JUL-10
+Bortezomib,TE-10,oesophagus,"upper aerodigestive",753622,969352,-6.8783,-7.2583,-6.0812,1.4991,19-JUL-10
+Bortezomib,TE-8,oesophagus,"upper aerodigestive",753623,969357,-6.7342,-7.4575,-5.0309,1.2534,19-JUL-10
+Bortezomib,HL-60,AML,blood,905938,1158874,-5.3672,-5.4894,-5.1841,2.3076,20-OCT-11
+Bortezomib,K-562,CML,blood,905940,869180,-5.493,-5.6704,-5.3202,1.6408,16-DEC-10
+Bortezomib,NCI-H226,"lung: NSCLC: squamous_cell_carcinoma",lung,905941,869236,-.90824,-2.5737,2.1474,.80147,10-DEC-10
+Bortezomib,NCI-H23,"lung: NSCLC: NOS",lung,905942,869237,-4.4127,-4.9958,.64403,1.89,22-NOV-10
+Bortezomib,CCRF-CEM,"lymphoblastic leukemia",blood,905952,1131261,-6.7885,-7.2509,-6.3694,1.6918,20-JAN-12
+Bortezomib,SK-MEL-2,malignant_melanoma,skin,905955,869014,-1.2662,-2.744,1.2737,.6927,13-AUG-10
+Bortezomib,MOLT-4,"lymphoblastic leukemia",blood,905958,1131362,-6.1505,-6.4524,-5.8028,1.5887,13-JAN-12
+Bortezomib,RPMI-8226,Myeloma,blood,905964,869116,-6.0552,-6.1757,-5.9511,2.5556,13-AUG-10
+Bortezomib,SR,"lymphoid_neoplasm other",blood,905965,869021,-6.6806,-7.3794,-2.6074,2.4311,13-JAN-11
+Bortezomib,NCI-H322M,"lung: NSCLC: adenocarcinoma",lung,905967,869110,-2.7165,-3.577,-.53673,.95183,13-AUG-10
+Bortezomib,EKVX,"lung: NSCLC: adenocarcinoma",lung,905970,969246,-6.1488,-6.5328,-5.803,.62388,23-JUL-10
+Bortezomib,HCC2998,large_intestine,"GI tract",905971,969262,-7.7942,-8.3247,-7.0029,1.5483,29-JUN-10
+Bortezomib,HOP-62,"lung: NSCLC: adenocarcinoma",lung,905972,969265,-7.3425,-7.7436,-6.9364,1.511,16-JUL-10
+Bortezomib,LOXIMVI,malignant_melanoma,skin,905974,1131267,-5.655,-5.7604,-5.52,2.0599,13-JAN-12
+Bortezomib,UACC-257,malignant_melanoma,skin,905977,969362,-7.2499,-7.6291,-6.9314,1.5051,02-JUL-10
+Bortezomib,RXF393,"Renal cell carcinoma",kidney,905978,969333,-6.9979,-7.9268,-6.2152,1.3979,08-SEP-10
+Bortezomib,TK10,"Renal cell carcinoma",kidney,905980,969361,-7.2949,-7.7084,-6.8335,1.1532,02-JUL-10
+Bortezomib,SNB75,glioma,CNS,905982,969346,-7.0001,-7.371,-6.6295,1.2894,16-JUL-10
+Bortezomib,SF539,glioma,CNS,905984,869118,-3.879,-5.4606,.93737,1.5952,29-JUL-10
+Bortezomib,SF268,glioma,CNS,905986,969338,-6.9883,-7.2508,-6.7606,1.8627,30-JUL-10
+Bortezomib,KM12,large_intestine,"GI tract",905989,969282,-6.6675,-7.1396,-5.9759,1.4975,02-JUL-10
+Bortezomib,OVCAR-4,ovary,ovary,905990,969329,-8.1479,-8.5867,-7.7608,1.3021,24-AUG-10
+Bortezomib,Becker,glioma,CNS,906746,969228,-6.301,-6.5853,-5.9601,1.0944,19-AUG-10
+Bortezomib,BE-13,"lymphoblastic leukemia",blood,906763,869047,-6.2502,-6.4614,-6.0587,2.1674,15-JUL-10
+Bortezomib,ARH-77,Myeloma,blood,906765,869191,-6.0386,-6.2215,-5.8893,2.0963,14-OCT-10
+Bortezomib,A253,other,other,906794,969221,-8.4758,-8.9222,-8.1522,1.0617,19-AUG-10
+Bortezomib,697,"lymphoblastic leukemia",blood,906800,1131249,-6.2208,-6.4095,-5.9889,1.9493,16-MAR-12
+Bortezomib,ACN,neuroblastoma,CNS,906803,969223,-7.7821,-7.9112,-7.681,2.2048,19-AUG-10
+Bortezomib,COR-L88,"lung: small_cell_carcinoma",lung,906808,1012640,-5.6622,-5.7732,-5.5602,1.6306,21-JUL-11
+Bortezomib,COLO-824,breast,breast,906812,978367,.23253,-2.2601,4.1661,1.0027,13-AUG-10
+Bortezomib,COLO-800,malignant_melanoma,skin,906813,869129,-4.0378,-4.4186,-3.5432,.75846,20-AUG-10
+Bortezomib,C8166,"lymphoid_neoplasm other",blood,906829,869001,-3.3326,-3.5095,-3.1,1.0988,01-OCT-10
+Bortezomib,Daudi,"Burkitt lymphoma",blood,906831,869134,-6.7062,-8.026,-5.5432,1.8309,06-JAN-11
+Bortezomib,DB,"B cell lymphoma",blood,906832,1012641,-5.6815,-6.0188,-4.6298,1.5939,21-JUL-11
+Bortezomib,D-283MED,medulloblastoma,CNS,906834,869133,-3.2757,-5.159,1.4045,1.5098,03-SEP-10
+Bortezomib,DEL,"lymphoid_neoplasm other",blood,906836,869054,-.93835,-4.0681,3.9415,1.0988,15-JUL-10
+Bortezomib,DG-75,"Burkitt lymphoma",blood,906838,869136,-3.984,-5.3707,.4858,1.5104,13-JAN-11
+Bortezomib,DJM-1,other,skin,906841,969243,-5.619,-6.4228,-4.0033,1.3276,19-AUG-10
+Bortezomib,DOHH-2,"B cell lymphoma",blood,906842,869055,-3.753,-4.1099,-3.2098,.957,07-MAY-10
+Bortezomib,DU-4475,breast,breast,906844,1131304,-6.5979,-6.7935,-5.952,1.9299,17-FEB-12
+Bortezomib,EB2,"Burkitt lymphoma",blood,906846,869142,-4.013,-4.4941,-3.1778,.80903,16-DEC-10
+Bortezomib,EB-3,"Burkitt lymphoma",blood,906847,978368,-5.9305,-6.241,-4.4454,1.744,06-JAN-11
+Bortezomib,ECC12,stomach,"GI tract",906849,969245,-6.5907,-6.7936,-6.4076,1.6397,19-AUG-10
+Bortezomib,ECC4,other,"GI tract",906850,869056,-3.5476,-4.015,-2.4331,1.1446,06-AUG-10
+Bortezomib,EHEB,"lymphoid_neoplasm other",blood,906854,1131306,-6.3976,-6.5367,-6.2667,1.9095,16-MAR-12
+Bortezomib,EM-2,CML,blood,906855,869058,-6.7588,-7.2358,-6.4934,1.7984,15-JUL-10
+Bortezomib,EoL-1-cell,"haematopoietic_neoplasm other",blood,906856,869143,-4.0003,-4.5667,-3.1397,.95257,07-MAY-10
+Bortezomib,ETK-1,biliary_tract,"GI tract",906861,969253,-5.8629,-6.0216,-5.6245,1.8175,26-JUL-10
+Bortezomib,EVSA-T,breast,breast,906862,869146,-5.6271,-5.8427,-5.2209,1.8321,28-OCT-10
+Bortezomib,GCIY,stomach,"GI tract",906869,969257,-6.4223,-7.2915,-6.0157,1.8642,24-AUG-10
+Bortezomib,GDM-1,AML,blood,906870,1158873,-4.9953,-5.2013,-4.8246,1.7356,20-OCT-11
+Bortezomib,GI-1,glioma,CNS,906871,969258,-7.1765,-7.4749,-6.9077,1.3988,09-JUL-10
+Bortezomib,GI-ME-N,neuroblastoma,CNS,906872,969259,-7.363,-7.962,-6.3995,1.5279,30-JUL-10
+Bortezomib,GOTO,neuroblastoma,CNS,906875,869150,-4.0711,-4.6049,-3.561,.74714,04-MAR-11
+Bortezomib,GR-ST,"lymphoblastic leukemia",blood,906877,869073,-2.1773,-3.2812,-.16481,.6595,07-MAY-10
+Bortezomib,GT3TKB,stomach,"GI tract",907041,969260,-6.1584,-6.3701,-5.9398,1.596,25-AUG-10
+Bortezomib,HC-1,hairy_cell_leukaemia,blood,907044,869152,-6.9333,-7.2769,-6.4379,1.9087,14-OCT-10
+Bortezomib,HCE-T,upper_aerodigestive_tract,"upper aerodigestive",907049,969263,-7.7302,-8.3703,-7.3684,1.3846,07-JUL-10
+Bortezomib,HD-MY-Z,"Hodgkin lymphoma",blood,907050,869160,-5.5381,-6.411,-3.5902,1.1675,14-OCT-10
+Bortezomib,HEL,AML,blood,907053,869161,-6.4312,-6.6215,-6.1356,1.8764,28-OCT-10
+Bortezomib,HH,"lymphoid_neoplasm other",blood,907056,869164,-6.1531,-6.4646,-5.8078,1.4973,28-JAN-11
+Bortezomib,HT,"B cell lymphoma",blood,907063,869168,-5.801,-6.3292,-5.5295,2.0973,06-JAN-11
+Bortezomib,HT-144,malignant_melanoma,skin,907067,969267,-7.4597,-7.9381,-7.0759,1.4231,24-AUG-10
+Bortezomib,HUTU-80,other,"GI tract",907073,969269,-7.537,-7.9132,-6.78,2.0111,16-JUL-10
+Bortezomib,IMR-5,neuroblastoma,CNS,907170,869078,1.2266,-1.6838,5.4628,1.0605,29-JUL-10
+Bortezomib,IST-MEL1,malignant_melanoma,skin,907172,969271,-6.9943,-7.8818,-6.1008,1.442,19-AUG-10
+Bortezomib,IST-MES1,mesothelioma,lung,907173,969273,-3.7824,-4.6045,-.94443,1.1574,19-AUG-10
+Bortezomib,JAR,other,other,907175,869175,-4.1269,-4.5047,-3.8126,1.047,10-FEB-11
+Bortezomib,JiyoyeP-2003,"Burkitt lymphoma",blood,907268,869176,-5.2985,-5.9519,-4.4085,2.0818,06-JAN-11
+Bortezomib,JVM-2,"lymphoid_neoplasm other",blood,907269,1131259,-4.9224,-5.0848,-4.7463,1.3895,20-JAN-12
+Bortezomib,JVM-3,"lymphoid_neoplasm other",blood,907270,1131260,-4.3432,-4.6401,-4.097,1.331,16-MAR-12
+Bortezomib,KALS-1,glioma,CNS,907271,969278,-6.9857,-8.4174,-5.8691,1.324,02-SEP-10
+Bortezomib,KARPAS-45,"lymphoblastic leukemia",blood,907272,869183,-5.6431,-6.3307,-5.2878,1.9443,22-NOV-10
+Bortezomib,KARPAS-299,"lymphoid_neoplasm other",blood,907273,869181,-5.7889,-5.9106,-5.447,2.1175,06-JAN-11
+Bortezomib,KARPAS-422,"B cell lymphoma",blood,907274,869182,-3.3512,-5.0401,-.45723,1.1569,22-NOV-10
+Bortezomib,KASUMI-1,AML,blood,907275,869184,-1.2621,-2.6951,.6625,.48276,16-DEC-10
+Bortezomib,KE-37,"lymphoblastic leukemia",blood,907277,869186,-6.1537,-7.296,-5.6182,2.2591,22-NOV-10
+Bortezomib,KG-1,AML,blood,907278,869187,-4.836,-6.4609,.10714,1.9488,28-OCT-10
+Bortezomib,KINGS-1,glioma,CNS,907279,969281,-7.2342,-7.6677,-6.8023,1.2005,16-JUL-10
+Bortezomib,KMOE-2,AML,blood,907280,1131342,-6.1042,-6.3474,-5.8396,1.5441,13-JAN-12
+Bortezomib,KNS-42,glioma,CNS,907282,969283,-8.2629,-8.8795,-7.7257,1.4174,29-JUN-10
+Bortezomib,KY821,leukemia,blood,907300,869193,.035408,-2.3032,4.2254,.93896,21-OCT-10
+Bortezomib,KU812,CML,blood,907311,1131344,-6.0231,-7.0058,-5.3822,1.9406,13-JAN-12
+Bortezomib,KS-1,glioma,CNS,907313,969287,-7.986,-8.3888,-7.7264,1.5145,24-AUG-10
+Bortezomib,L-428,"Hodgkin lymphoma",blood,907322,869195,-3.1267,-5.2087,1.4681,1.3301,28-OCT-10
+Bortezomib,L-540,"Hodgkin lymphoma",blood,907323,1158876,-6.5961,-6.9261,-6.3943,2.5986,09-SEP-11
+Bortezomib,J-RT3-T3-5,"lymphoblastic T cell leukaemia",blood,907391,1158875,-.63004,-3.5597,4.8502,.5288,14-OCT-11
+Bortezomib,LAMA-84,CML,blood,907783,869197,-5.6582,-5.8624,-5.4446,1.4588,28-OCT-10
+Bortezomib,LC-1F,"lung: NSCLC: squamous_cell_carcinoma",lung,907785,1131266,-5.5898,-6.0664,-5.115,1.0126,24-FEB-12
+Bortezomib,LC-2-ad,"lung: NSCLC: adenocarcinoma",lung,907786,969297,-6.8268,-7.148,-6.3594,1.6632,19-AUG-10
+Bortezomib,LC4-1,"lymphoblastic leukemia",blood,907787,869198,-6.3243,-6.6472,-6.103,1.6281,28-JAN-11
+Bortezomib,LNCaP-Clone-FGC,prostate,other,907788,869199,-1.2199,-2.7054,1.5711,.81812,27-AUG-10
+Bortezomib,LOUCY,"lymphoblastic T cell leukaemia",blood,907789,1131349,-8.1354,-8.3767,-8.0095,2.1799,13-JAN-12
+Bortezomib,LP-1,Myeloma,blood,907791,869200,-2.7923,-4.6403,.3174,.96433,22-NOV-10
+Bortezomib,LS-123,large_intestine,"GI tract",907792,969364,-6.2048,-6.5441,-5.6427,1.3739,19-AUG-10
+Bortezomib,LS-411N,large_intestine,"GI tract",907794,969300,-6.4848,-6.7608,-6.2476,1.5943,08-SEP-10
+Bortezomib,LS-513,large_intestine,"GI tract",907795,969301,-7.2098,-7.8496,-6.758,1.4392,09-JUL-10
+Bortezomib,MC116,"B cell lymphoma",blood,907799,869204,-1.9048,-4.3739,2.2436,.62687,06-JAN-11
+Bortezomib,MDA-MB-134-VI,breast,breast,908119,869205,-3.328,-4.5128,-.64135,1.1694,10-SEP-10
+Bortezomib,MEG-01,CML,blood,908126,1158877,-5.6582,-5.8041,-5.5421,2.0907,14-OCT-11
+Bortezomib,MHH-CALL-2,"B cell leukemia",blood,908132,1131273,-2.1568,-5.8244,3.3819,1.2591,13-JAN-12
+Bortezomib,MHH-NB-11,neuroblastoma,CNS,908135,1131356,-5.3157,-5.9267,-1.6314,1.6611,13-JAN-12
+Bortezomib,MHH-PREB-1,"B cell leukemia",blood,908136,869209,-5.3266,-5.5277,-5.1618,1.7856,13-JAN-11
+Bortezomib,ML-2,AML,blood,908141,869211,-7.1055,-7.3889,-6.7723,1.4647,28-OCT-10
+Bortezomib,MLMA,hairy_cell_leukaemia,blood,908142,1158879,-4.7268,-4.9583,-4.4673,1.5554,14-OCT-11
+Bortezomib,MN-60,"B cell leukemia",blood,908143,1131274,-4.8106,-4.912,-4.6968,1.903,13-JAN-12
+Bortezomib,MOLT-16,"lymphoblastic T cell leukaemia",blood,908147,869214,-5.8454,-5.9958,-4.1356,2.4484,22-NOV-10
+Bortezomib,MONO-MAC-6,AML,blood,908148,1131365,-5.7751,-6.5228,-4.8721,1.1926,20-JAN-12
+Bortezomib,Mo-T,hairy_cell_leukaemia,blood,908149,1131275,-5.8993,-6.1014,-4.9316,1.3475,16-MAR-12
+Bortezomib,MPP-89,mesothelioma,lung,908150,969307,-6.2715,-6.8326,-5.9409,1.3817,09-JUL-10
+Bortezomib,MRK-nu-1,breast,breast,908151,1158880,-2.7836,-5.4875,1.9149,1.2875,20-OCT-11
+Bortezomib,MSTO-211H,mesothelioma,lung,908152,1012646,-.55467,-2.9212,3.4979,.7848,15-AUG-11
+Bortezomib,MV-4-11,leukemia,blood,908156,1012647,-6.3106,-7.3592,-5.7852,2.6031,21-JUL-11
+Bortezomib,NALM-6,"B cell leukemia",blood,908158,978372,-5.405,-5.7188,-4.2771,2.033,19-NOV-10
+Bortezomib,NB69,neuroblastoma,CNS,908440,1131374,-6.0075,-6.2891,-5.723,2.3526,13-JAN-12
+Bortezomib,NCCIT,germ_cell_tumour,other,908441,1158882,-3.9978,-4.5902,-1.1425,1.5993,20-OCT-11
+Bortezomib,NCI-SNU-1,stomach,"GI tract",908444,869019,-4.3286,-5.2106,-3.3606,1.047,04-MAR-11
+Bortezomib,NCI-SNU-5,stomach,"GI tract",908445,1131227,-5.2647,-5.7114,-4.9213,1.397,09-FEB-12
+Bortezomib,NCI-SNU-16,stomach,"GI tract",908446,1158869,-4.8727,-5.0896,-4.3646,1.3871,14-OCT-11
+Bortezomib,NH-12,neuroblastoma,CNS,908447,869247,-3.5873,-3.9916,-3.1561,1.0122,16-DEC-10
+Bortezomib,NKM-1,AML,blood,908448,1131285,-6.2152,-6.3495,-6.087,2.1359,16-MAR-12
+Bortezomib,NMC-G1,glioma,CNS,908449,969318,-5.6059,-5.8881,-5.1769,1.3121,19-JUL-10
+Bortezomib,no-11,glioma,CNS,908450,969320,-5.641,-8.0424,-2.4763,.96599,29-JUN-10
+Bortezomib,NOMO-1,AML,blood,908451,1131286,-5.4425,-5.505,-5.3782,1.9238,20-JAN-12
+Bortezomib,no-10,glioma,CNS,908452,969319,-8.4691,-8.8838,-8.1574,1.5284,07-JUL-10
+Bortezomib,NTERA-S-cl-D1,germ_cell_tumour,other,908454,969323,-8.3207,-8.8976,-7.8648,2.0478,02-JUL-10
+Bortezomib,NCI-H889,"lung: small_cell_carcinoma",lung,908456,1012652,-.77237,-3.7105,3.8388,.78611,15-AUG-11
+Bortezomib,NCI-H747,large_intestine,"GI tract",908457,969317,-7.5255,-8.9201,-6.9863,1.227,19-JUL-10
+Bortezomib,NCI-H716,large_intestine,"GI tract",908458,869112,-3.0199,-3.6073,-1.9007,.89476,15-JUL-10
+Bortezomib,NCI-N87,stomach,"GI tract",908461,869244,-2.9154,-3.4914,-2.1794,.42035,21-OCT-10
+Bortezomib,NCI-H1522,"lung: small_cell_carcinoma",lung,908464,1012649,-1.1807,-4.3731,3.39,1.1059,15-AUG-11
+Bortezomib,NCI-H1155,"lung: NSCLC: large cell",lung,908467,1012648,-1.4683,-4.4253,3.3183,1.2011,15-AUG-11
+Bortezomib,NCI-H1436,"lung: small_cell_carcinoma",lung,908469,1158884,-4.0741,-4.4862,-2.4694,1.4946,09-SEP-11
+Bortezomib,NCI-H1581,"lung: NSCLC: large cell",lung,908471,1131379,-4.3999,-5.2005,-4.1847,1.3332,20-JAN-12
+Bortezomib,NCI-H2081,"lung: small_cell_carcinoma",lung,908480,1131384,-4.5959,-4.9092,-4.3718,1.4046,16-MAR-12
+Bortezomib,NCI-H2196,"lung: small_cell_carcinoma",lung,908481,1131387,-4.9902,-5.4165,-4.3651,1.5674,27-JAN-12
+Bortezomib,NCI-H524,"lung: small_cell_carcinoma",lung,908483,1158890,-1.8382,-4.5702,1.5577,.82729,09-SEP-11
+Bortezomib,NCI-H748,"lung: small_cell_carcinoma",lung,909194,1131393,-6.0365,-6.3669,-5.6969,1.8076,20-JAN-12
+Bortezomib,ONS-76,medulloblastoma,CNS,909248,969326,-8.0164,-8.4289,-7.3759,1.4518,02-JUL-10
+Bortezomib,OPM-2,Myeloma,blood,909249,869249,-6.6256,-6.7835,-6.4947,1.7211,28-OCT-10
+Bortezomib,OS-RC-2,"Renal cell carcinoma",kidney,909250,969327,-7.7282,-8.5126,-7.0933,.8417,29-JUN-10
+Bortezomib,P30-OHK,"lymphoblastic leukemia",blood,909252,869251,-2.9075,-3.3295,-2.3046,.91693,01-OCT-10
+Bortezomib,P31-FUJ,AML,blood,909253,869253,.10683,-2.0882,3.8319,1.0737,19-NOV-10
+Bortezomib,OCUB-M,breast,breast,909256,969324,-7.7132,-8.3514,-7.0461,1.0222,08-SEP-10
+Bortezomib,PF-382,"lymphoblastic T cell leukaemia",blood,909260,869279,-6.5223,-6.7587,-6.3263,2.2398,19-NOV-10
+Bortezomib,Raji,"Burkitt lymphoma",blood,909262,868993,-5.4115,-5.6355,-5.0858,1.8536,06-JAN-11
+Bortezomib,REH,"B cell leukemia",blood,909696,868994,-3.6339,-3.7518,-3.4693,1.5274,23-SEP-10
+Bortezomib,RKO,large_intestine,"GI tract",909698,969331,-6.8488,-7.062,-6.6332,1.8275,09-JUL-10
+Bortezomib,RPMI-6666,"Hodgkin lymphoma",blood,909701,1158864,-3.0815,-5.2285,.080014,.88828,14-OCT-11
+Bortezomib,RPMI-8402,"lymphoblastic T cell leukaemia",blood,909702,868998,-5.6561,-6.3234,-4.0544,1.8199,06-JAN-11
+Bortezomib,RS4-11,leukemia,blood,909703,868999,-2.9783,-3.6757,-1.9155,.71122,06-AUG-10
+Bortezomib,SCH,stomach,"GI tract",909711,1158866,-1.1325,-3.4751,3.9564,1.0044,09-SEP-11
+Bortezomib,SF126,glioma,CNS,909712,969335,-7.2625,-8.2602,-6.8239,1.2062,26-JUL-10
+Bortezomib,SH-4,malignant_melanoma,skin,909713,969339,-8.6639,-9.0362,-8.3001,1.0556,26-JUL-10
+Bortezomib,SIG-M5,AML,blood,909715,869006,-2.2532,-7.5105,3.3008,1.1959,22-NOV-10
+Bortezomib,SJSA-1,other,bone,909717,969341,-6.1132,-6.3591,-5.8947,1.4019,08-SEP-10
+Bortezomib,SK-LMS-1,"soft tissue other","soft tissue",909720,969343,-7.0656,-7.3158,-6.8103,1.957,16-JUL-10
+Bortezomib,SKM-1,"haematopoietic_neoplasm other",blood,909722,869011,-3.1552,-3.91,-1.3878,.88859,22-NOV-10
+Bortezomib,SK-MEL-1,malignant_melanoma,skin,909723,869012,-3.3475,-3.7356,-2.9392,.97671,28-JAN-11
+Bortezomib,SK-NEP-1,"Renal other (putative Ewing's)",kidney,909730,869017,-4.709,-5.0024,-4.3475,1.2831,13-AUG-10
+Bortezomib,SK-PN-DW,"Ewings sarcoma",bone,909731,1131292,-5.7649,-6.4911,-3.2723,1.862,02-MAR-12
+Bortezomib,SK-UT-1,"soft tissue other","soft tissue",909732,969345,-8.722,-8.9396,-8.5166,2.0154,12-JUL-10
+Bortezomib,SU-DHL-1,"lymphoid_neoplasm other",blood,909742,869023,-4.9284,-5.4799,-2.7773,1.7269,28-JAN-11
+Bortezomib,SUP-T1,"lymphoblastic T cell leukaemia",blood,909743,869025,-.37682,-2.6213,3.6643,.5551,10-DEC-10
+Bortezomib,SW684,"soft tissue other","soft tissue",909754,969347,-7.1055,-7.7025,-6.274,1.563,26-JUL-10
+Bortezomib,SW872,"soft tissue other","soft tissue",909756,969348,-6.9114,-7.2109,-6.5194,1.7251,24-AUG-10
+Bortezomib,SW962,vulva,uterus,909758,969350,-5.2576,-5.564,-5.0491,1.6401,08-SEP-10
+Bortezomib,TALL-1,"lymphoblastic T cell leukaemia",blood,909762,869026,-2.9204,-3.4501,-2.157,.75552,01-OCT-10
+Bortezomib,TGBC1TKB,biliary_tract,"GI tract",909769,969360,-6.3741,-6.6712,-6.063,1.5027,16-JUL-10
+Bortezomib,THP-1,AML,blood,909771,869029,-1.1314,-2.5472,1.1478,.71884,10-DEC-10
+Bortezomib,TUR,"B cell lymphoma",blood,909773,869030,-.9248,-2.7309,1.2368,.39959,10-DEC-10
+Bortezomib,U-698-M,"B cell leukemia",blood,909777,869034,.81632,-1.8495,5.8084,.81802,21-OCT-10
+Bortezomib,WSU-NHL,"lymphoid_neoplasm other",blood,909785,869041,-3.5617,-3.8131,-3.231,.76916,01-OCT-10
+Bortezomib,RCC10RGB,"Renal cell carcinoma",kidney,909974,969330,-5.5387,-5.9308,-5.1573,.73435,24-AUG-10
+Bortezomib,KURAMOCHI,ovary,ovary,909975,969288,-6.3633,-7.0186,-5.9098,1.3453,23-JUL-10
+Bortezomib,KM-H2,"Hodgkin lymphoma",blood,909976,869188,-1.6243,-6.7987,3.6348,1.2151,28-OCT-10
+Bortezomib,Ramos-2G6-4C10,"Burkitt lymphoma",blood,910401,1131288,-7.2745,-7.9906,-6.4511,2.49,27-JAN-12
+Bortezomib,RPMI-8866,CML,blood,910544,1131289,.006257,-3.0112,4.3327,1.0907,30-JAN-12
+Bortezomib,QIMR-WIL,AML,blood,910545,1131287,-7.0257,-7.1643,-6.8761,2.1705,27-JAN-12
+Bortezomib,PSN1,pancreas,pancreas,910546,969216,-6.897,-8.0123,-5.8611,1.6554,25-AUG-10
+Bortezomib,CW-2,large_intestine,"GI tract",910554,969236,-5.7416,-6.4526,-4.1099,.9544,23-JUL-10
+Bortezomib,CMK,AML,blood,910566,869126,-6.6513,-7.0595,-6.348,2.1709,14-OCT-10
+Bortezomib,CHP-126,neuroblastoma,CNS,910567,1131294,-5.2857,-5.5439,-4.9308,1.6172,17-FEB-12
+Bortezomib,CGTH-W-1,thyroid,thyroid,910568,969232,-5.7762,-5.9718,-5.5855,1.8696,19-AUG-10
+Bortezomib,COLO-320-HSR,large_intestine,"GI tract",910569,1131251,-5.5428,-5.7003,-5.3512,1.3775,13-JAN-12
+Bortezomib,ATN-1,"lymphoblastic T cell leukaemia",blood,910687,869046,-4.7232,-6.6693,-1.3275,1.4963,15-JUL-10
+Bortezomib,CESS,AML,blood,910688,1131282,-7.5271,-7.6972,-7.4022,2.2338,13-JAN-12
+Bortezomib,COLO-684,endometrium,uterus,910691,1131298,-5.6095,-6.068,-4.9617,1.0887,20-JAN-12
+Bortezomib,COLO-668,"lung: small_cell_carcinoma",lung,910692,978364,-.90741,-2.8187,2.2014,.55137,13-AUG-10
+Bortezomib,A388,other,other,910697,969222,-7.9412,-8.3283,-7.6752,2.036,19-AUG-10
+Bortezomib,C2BBe1,large_intestine,"GI tract",910700,1131406,-5.847,-6.3734,-5.3382,1.1386,13-JAN-12
+Bortezomib,CA46,"Burkitt lymphoma",blood,910703,869009,-.9845,-2.3315,.78339,.45637,19-NOV-10
+Bortezomib,BL-41,"Burkitt lymphoma",blood,910706,869232,-6.6846,-6.7927,-6.575,2.4037,22-NOV-10
+Bortezomib,BL-70,"Burkitt lymphoma",blood,910707,869235,-6.155,-6.5786,-5.4702,2.7775,22-NOV-10
+Bortezomib,BV-173,CML,blood,910710,869050,-2.0979,-3.997,1.175,.76174,06-AUG-10
+Bortezomib,TGW,neuroblastoma,CNS,910780,1012638,-4.1054,-4.9632,-1.5274,1.4762,15-AUG-11
+Bortezomib,RL,"B cell lymphoma",blood,910861,868996,-2.4524,-3.1449,-1.3376,.79078,28-JAN-11
+Bortezomib,ST486,"Burkitt lymphoma",blood,910906,1158870,-2.171,-5.2396,1.9078,.90093,14-OCT-11
+Bortezomib,UACC-812,breast,breast,910910,1131243,-3.34,-4.599,1.5441,1.2965,09-FEB-12
+Bortezomib,SCC-15,upper_aerodigestive_tract,"upper aerodigestive",910911,869002,-.40426,-2.2561,2.7947,.82176,28-JAN-11

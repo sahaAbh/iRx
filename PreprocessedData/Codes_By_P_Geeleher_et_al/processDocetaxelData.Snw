@@ -1,0 +1,62 @@
+\documentclass[a4paper]{article}
+\title{R Code to Pre-process Data from Docetaxel ClinicalTrial.}
+\author{Paul Geeleher}
+\begin{document}
+\maketitle
+This file contains the full instructions to download and pre-process the Docetaxel clinical trial data so that it can be used to reproduce Figure 2 (and associated results) in the paper.
+
+The raw CEL files should be downloaded from GEO (accession numbers ``\textit{GSE349}'' and `\textit{GSE350}''). You must specify where your files have been downloaded. It is assumed that the sensitive samples are in a directory named ``\textit{GSE350\_RAW/}'' and the resistant ``\textit{GSE349\_RAW/}'' and that these are contained in the same directory, which is specified by ``\textit{dowloadDir}''.\\ \textbf{NOTE: These directories will need to be altered based on where you have downloaded and unzipped the .CEL files.}
+<<>>=
+# setwd("/path/to/this/file/")
+dowloadDir <- "/home/pgeeleher/postdoc_stuff_local/test_ridge/data/docetaxel_vivo/sensitive/"
+sensDirectory <- paste(dowloadDir, "GSE350_RAW/", sep="")
+resDirectory <- paste(dowloadDir, "GSE349_RAW/", sep="")
+@
+Load the "affy" library. NOTE: If this hasn't been installed you will need to install it.
+<<>>=
+library(affy)
+@
+
+Read and RMA normalize the expression data.The array platform is Affymetrix Human Genome U95 Version 2 Array and the CDF file can be downloaded from BrainArray website: \\http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/17.0.0/entrezg.asp. 
+
+Once the CDF name is specified \textit{@cdfName}, it is automatically downloaded, but note that to reproduce our results exactly, you will need to use version 17 of the CDF.
+<<>>=
+sensCELs <- paste(sensDirectory, dir(sensDirectory), sep="")
+resCELs <- paste(resDirectory, dir(resDirectory), sep="")
+doceVivoRaw <- ReadAffy(filenames=c(sensCELs, resCELs))
+doceVivoRaw@cdfName <- "HGU95Av2_Hs_ENTREZG" 
+doceVivoNorm <- rma(doceVivoRaw)
+@
+
+Next, map the gene identifiers to gene symbols. To do this we need to download the annotation package from BrainArray. The file can be downloaded from the link below. On Linux/MAC this can be done by issuing the following commands from the command prompt: \\
+\$ wget http://brainarray.mbni.med.umich.edu/Brainarray/Database/CustomCDF/17.0.0/entrezg.download/hgu95av2hsentrezg.db\_17.0.0.tar.gz
+\\ \$ R CMD INSTALL hgu95av2hsentrezg.db\_17.0.0.tar.gz
+
+Then, in R, we need to load the annotation file and map the gene identifiers to gene symbols.
+<<>>=
+library("hgu95av2hsentrezg.db")
+x <- hgu95av2hsentrezgSYMBOL
+mapped_probes_brain <- mappedkeys(x)
+names(mapped_probes_brain) <- as.character(x[mapped_probes_brain])
+entrez2sym_brain <- as.character(x[mapped_probes_brain])
+symBrain2entrez <- entrez2sym_brain
+names(symBrain2entrez) <- names(entrez2sym_brain)
+doceVivoNorm_syms <- exprs(doceVivoNorm)
+rownames(doceVivoNorm_syms) <- symBrain2entrez[rownames(exprs(doceVivoNorm))]
+@
+
+Finally, save the expression matrix and a factor to indicate which samples are sensitive/resistant.
+
+<<>>=
+groupMembership <- c(rep("sens", 10), rep("res", 14))
+save(doceVivoNorm_syms, groupMembership, 
+file="../Data/docetaxelData/doce_rma_syms_brainArray.RData")
+@
+
+
+<<>>=
+sessionInfo()
+@
+
+
+\end{document}
