@@ -1,6 +1,6 @@
 # iRx: A Bayesian Precision Medicine Framework for Calibrating Individualized Therapeutic Indices in Cancer
 
-Please visit [BioRxiv link](https://www.biorxiv.org/content/10.1101/2021.08.09.455722v1) to have full access to the manuscript, and to know more details on the notations, and contexts the attached code refers to. We have demontrataed below how to reprodue the key figures. A slightly more detailed version can be found at [Dr. Veera's lab](https://github.com/bayesrx/iRx).
+Please visit [here](https://doi.org/10.1214/21-aoas1550) to have full access to the manuscript, and to know more details on the notations, and contexts the attached code refers to. We have demontrataed below how to reprodue the key figures. A slightly more detailed version can be found at [Dr. Veera's lab](https://github.com/bayesrx/iRx).
 
 # REPRODUCTION OF THE ANALYSIS
 
